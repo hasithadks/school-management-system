@@ -1,0 +1,684 @@
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe.config
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.pdb
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form1.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Properties.Resources.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.StaffManagment.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CopyComplete
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.pdb
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form2.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\stdole.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE80.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj80.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj2.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe.config
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffprofile.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staff_profile.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Login.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.requestleave.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.ErrorDialogBox.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.principle_profile.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Payment.exe
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Payment.pdb
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Payment.exe.config
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Messeges.SuccessfullMessageBox.resources
+C:\Users\ACER\Desktop\ITP project\StaffManagment\StaffManagment\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe.config
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.ErrorDialogBox.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form1.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form2.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Login.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Messeges.SuccessfullMessageBox.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.principle_profile.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Properties.Resources.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.requestleave.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.StaffManagment.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffprofile.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staff_profile.resources
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.pdb
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe.config
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.pdb
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\stdole.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE80.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj80.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj2.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CopyComplete
+C:\Users\ACER\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffReport.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csprojAssemblyReference.cache
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe.config
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.Attendance.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.ErrorDialogBox.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form1.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form2.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Login.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Messeges.SuccessfullMessageBox.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.principle_profile.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Properties.Resources.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.requestleave.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.StaffManagment.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffprofile.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffReport.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staff_profile.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.GenerateResource.cache
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.pdb
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe.config
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.pdb
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\stdole.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE80.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj80.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj2.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CopyComplete
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.loding.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.mainMenu.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrolPrintlReport.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PaymentHomePage.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.ExpensesUC.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeExpensesReport.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeUC.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrollUC.resources
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\RdlCompile.cache
+C:\Users\Dave\Desktop\school-management-system-master\ITP project\StaffManagment\StaffManagment\obj\Debug\RdlCompile.compiled
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe.config
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.Attendance.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.loding.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.mainMenu.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PaymentHomePage.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrolPrintlReport.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.ExpensesUC.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeExpensesReport.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeUC.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrollUC.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.ErrorDialogBox.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form1.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form2.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Login.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Messeges.SuccessfullMessageBox.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.principle_profile.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Properties.Resources.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.requestleave.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.StaffManagment.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffprofile.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffReport.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staff_profile.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.GenerateResource.cache
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\RdlCompile.cache
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\RdlCompile.compiled
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.pdb
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IEReportPrint.resources
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe.config
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\StaffManagment.pdb
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\stdole.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\EnvDTE80.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj80.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\VSLangProj2.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\ITP project\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CopyComplete
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe.config
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\StaffManagment.pdb
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\EnvDTE.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\stdole.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\EnvDTE80.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\VSLangProj.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\VSLangProj80.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\VSLangProj2.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe.config
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.Attendance.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IEReportPrint.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.loding.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.mainMenu.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PaymentHomePage.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrolPrintlReport.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.ExpensesUC.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeExpensesReport.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeUC.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrollUC.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.ErrorDialogBox.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form1.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form2.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Login.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Messeges.SuccessfullMessageBox.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.principle_profile.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Properties.Resources.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.requestleave.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.StaffManagment.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffprofile.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffReport.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staff_profile.resources
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\RdlCompile.cache
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\RdlCompile.compiled
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CopyComplete
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe
+C:\Users\ACER\Desktop\GitHub_ITP\school-management-system\StaffManagment\StaffManagment\obj\Debug\StaffManagment.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe.config
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\StaffManagment.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\EnvDTE.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\stdole.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\EnvDTE80.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\VSLangProj.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\VSLangProj80.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\VSLangProj2.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe.config
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.Attendance.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IEReportPrint.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.loding.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.mainMenu.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PaymentHomePage.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrolPrintlReport.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.ExpensesUC.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeExpensesReport.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.IncomeUC.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\SchoolManagementSystem.PayrollUC.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.ErrorDialogBox.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form1.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Form2.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Login.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Messeges.SuccessfullMessageBox.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.principle_profile.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.Properties.Resources.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.requestleave.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.StaffManagment.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffprofile.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staffReport.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.staff_profile.resources
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.GenerateResource.cache
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\RdlCompile.cache
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\RdlCompile.compiled
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CopyComplete
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.pdb
