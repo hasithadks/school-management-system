@@ -573,6 +573,8 @@ C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffM
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe.config
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\StaffManagment.exe
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\StaffManagment.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Eventmanage.exe
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\examMarks.exe
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.Design.dll
@@ -580,6 +582,8 @@ C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffM
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.ReportViewer.WinForms.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\EntityFramework.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\EnvDTE.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
@@ -610,6 +614,13 @@ C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffM
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.Build.Utilities.Core.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\VSLangProj2.dll
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Eventmanage.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Eventmanage.exe.config
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\examMarks.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\examMarks.exe.config
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\EntityFramework.xml
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
@@ -682,3 +693,8 @@ C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffM
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.csproj.CopyComplete
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.exe
 C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\obj\Debug\StaffManagment.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\timetabledb.mdf
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\timetabledb_log.ldf
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\TimeTableManagement.exe
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\TimeTableManagement.pdb
+C:\Users\Dave\source\repos\school-management-system-master\StaffManagment\StaffManagment\bin\Debug\TimeTableManagement.exe.config

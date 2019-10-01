@@ -206,6 +206,7 @@
             this.logout.Size = new System.Drawing.Size(250, 43);
             this.logout.TabIndex = 3;
             this.logout.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.logout.Click += new System.EventHandler(this.logout_Click);
             // 
             // mainmenu
             // 
@@ -327,6 +328,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.bunifuGradientPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
 

@@ -49,11 +49,11 @@
             this.bunifuImageButton9 = new Bunifu.UI.WinForms.BunifuImageButton();
             this.bunifuImageButton8 = new Bunifu.UI.WinForms.BunifuImageButton();
             this.imgPaymentM = new Bunifu.UI.WinForms.BunifuImageButton();
-            this.bunifuImageButton6 = new Bunifu.UI.WinForms.BunifuImageButton();
-            this.bunifuImageButton5 = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.imgInventory = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.imgTimeTableM = new Bunifu.UI.WinForms.BunifuImageButton();
             this.imgAttendance = new Bunifu.UI.WinForms.BunifuImageButton();
-            this.bunifuImageButton3 = new Bunifu.UI.WinForms.BunifuImageButton();
-            this.bunifuImageButton2 = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.imgEventM = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.imgExamMarks = new Bunifu.UI.WinForms.BunifuImageButton();
             this.bunifuImageButton1 = new Bunifu.UI.WinForms.BunifuImageButton();
             this.btnClose = new Bunifu.UI.WinForms.BunifuImageButton();
             this.btnMinimize = new Bunifu.UI.WinForms.BunifuImageButton();
@@ -231,9 +231,9 @@
             this.bunifuLabel13.Location = new System.Drawing.Point(447, 613);
             this.bunifuLabel13.Name = "bunifuLabel13";
             this.bunifuLabel13.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel13.Size = new System.Drawing.Size(197, 22);
+            this.bunifuLabel13.Size = new System.Drawing.Size(177, 22);
             this.bunifuLabel13.TabIndex = 16;
-            this.bunifuLabel13.Text = "Attendance Management";
+            this.bunifuLabel13.Text = "TimeTable Management";
             this.bunifuLabel13.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
             // 
             // bunifuLabel14
@@ -254,13 +254,14 @@
             this.bunifuLabel15.AutoEllipsis = false;
             this.bunifuLabel15.CursorType = null;
             this.bunifuLabel15.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuLabel15.Location = new System.Drawing.Point(63, 518);
+            this.bunifuLabel15.Location = new System.Drawing.Point(29, 514);
             this.bunifuLabel15.Name = "bunifuLabel15";
             this.bunifuLabel15.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.bunifuLabel15.Size = new System.Drawing.Size(145, 22);
+            this.bunifuLabel15.Size = new System.Drawing.Size(236, 22);
             this.bunifuLabel15.TabIndex = 12;
-            this.bunifuLabel15.Text = "Class Management";
+            this.bunifuLabel15.Text = "Event and Notice Management";
             this.bunifuLabel15.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
+            this.bunifuLabel15.Click += new System.EventHandler(this.bunifuLabel15_Click);
             // 
             // bunifuImageButton9
             // 
@@ -357,67 +358,69 @@
             this.imgPaymentM.ZoomSpeed = 10;
             this.imgPaymentM.Click += new System.EventHandler(this.imgPaymentM_Click_1);
             // 
-            // bunifuImageButton6
+            // imgInventory
             // 
-            this.bunifuImageButton6.ActiveImage = null;
-            this.bunifuImageButton6.AllowAnimations = true;
-            this.bunifuImageButton6.AllowZooming = true;
-            this.bunifuImageButton6.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuImageButton6.ErrorImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton6.ErrorImage")));
-            this.bunifuImageButton6.FadeWhenInactive = false;
-            this.bunifuImageButton6.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
-            this.bunifuImageButton6.Image = global::StaffManagment.Properties.Resources.workspace;
-            this.bunifuImageButton6.ImageActive = null;
-            this.bunifuImageButton6.ImageLocation = null;
-            this.bunifuImageButton6.ImageMargin = 20;
-            this.bunifuImageButton6.ImageSize = new System.Drawing.Size(80, 80);
-            this.bunifuImageButton6.ImageZoomSize = new System.Drawing.Size(100, 100);
-            this.bunifuImageButton6.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton6.InitialImage")));
-            this.bunifuImageButton6.Location = new System.Drawing.Point(516, 87);
-            this.bunifuImageButton6.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuImageButton6.Name = "bunifuImageButton6";
-            this.bunifuImageButton6.Rotation = 0;
-            this.bunifuImageButton6.ShowActiveImage = true;
-            this.bunifuImageButton6.ShowCursorChanges = true;
-            this.bunifuImageButton6.ShowImageBorders = true;
-            this.bunifuImageButton6.ShowSizeMarkers = true;
-            this.bunifuImageButton6.Size = new System.Drawing.Size(100, 100);
-            this.bunifuImageButton6.TabIndex = 3;
-            this.bunifuImageButton6.ToolTipText = "";
-            this.bunifuImageButton6.WaitOnLoad = false;
-            this.bunifuImageButton6.Zoom = 20;
-            this.bunifuImageButton6.ZoomSpeed = 10;
+            this.imgInventory.ActiveImage = null;
+            this.imgInventory.AllowAnimations = true;
+            this.imgInventory.AllowZooming = true;
+            this.imgInventory.BackColor = System.Drawing.Color.Transparent;
+            this.imgInventory.ErrorImage = ((System.Drawing.Image)(resources.GetObject("imgInventory.ErrorImage")));
+            this.imgInventory.FadeWhenInactive = false;
+            this.imgInventory.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.imgInventory.Image = global::StaffManagment.Properties.Resources.workspace;
+            this.imgInventory.ImageActive = null;
+            this.imgInventory.ImageLocation = null;
+            this.imgInventory.ImageMargin = 20;
+            this.imgInventory.ImageSize = new System.Drawing.Size(80, 80);
+            this.imgInventory.ImageZoomSize = new System.Drawing.Size(100, 100);
+            this.imgInventory.InitialImage = ((System.Drawing.Image)(resources.GetObject("imgInventory.InitialImage")));
+            this.imgInventory.Location = new System.Drawing.Point(516, 87);
+            this.imgInventory.Margin = new System.Windows.Forms.Padding(4);
+            this.imgInventory.Name = "imgInventory";
+            this.imgInventory.Rotation = 0;
+            this.imgInventory.ShowActiveImage = true;
+            this.imgInventory.ShowCursorChanges = true;
+            this.imgInventory.ShowImageBorders = true;
+            this.imgInventory.ShowSizeMarkers = true;
+            this.imgInventory.Size = new System.Drawing.Size(100, 100);
+            this.imgInventory.TabIndex = 3;
+            this.imgInventory.ToolTipText = "";
+            this.imgInventory.WaitOnLoad = false;
+            this.imgInventory.Zoom = 20;
+            this.imgInventory.ZoomSpeed = 10;
+            this.imgInventory.Click += new System.EventHandler(this.imgInventory_Click);
             // 
-            // bunifuImageButton5
+            // imgTimeTableM
             // 
-            this.bunifuImageButton5.ActiveImage = null;
-            this.bunifuImageButton5.AllowAnimations = true;
-            this.bunifuImageButton5.AllowZooming = true;
-            this.bunifuImageButton5.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuImageButton5.ErrorImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton5.ErrorImage")));
-            this.bunifuImageButton5.FadeWhenInactive = false;
-            this.bunifuImageButton5.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
-            this.bunifuImageButton5.Image = global::StaffManagment.Properties.Resources.brainstorm;
-            this.bunifuImageButton5.ImageActive = null;
-            this.bunifuImageButton5.ImageLocation = null;
-            this.bunifuImageButton5.ImageMargin = 20;
-            this.bunifuImageButton5.ImageSize = new System.Drawing.Size(130, 130);
-            this.bunifuImageButton5.ImageZoomSize = new System.Drawing.Size(150, 150);
-            this.bunifuImageButton5.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton5.InitialImage")));
-            this.bunifuImageButton5.Location = new System.Drawing.Point(466, 458);
-            this.bunifuImageButton5.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuImageButton5.Name = "bunifuImageButton5";
-            this.bunifuImageButton5.Rotation = 0;
-            this.bunifuImageButton5.ShowActiveImage = true;
-            this.bunifuImageButton5.ShowCursorChanges = true;
-            this.bunifuImageButton5.ShowImageBorders = true;
-            this.bunifuImageButton5.ShowSizeMarkers = true;
-            this.bunifuImageButton5.Size = new System.Drawing.Size(150, 150);
-            this.bunifuImageButton5.TabIndex = 3;
-            this.bunifuImageButton5.ToolTipText = "";
-            this.bunifuImageButton5.WaitOnLoad = false;
-            this.bunifuImageButton5.Zoom = 20;
-            this.bunifuImageButton5.ZoomSpeed = 10;
+            this.imgTimeTableM.ActiveImage = null;
+            this.imgTimeTableM.AllowAnimations = true;
+            this.imgTimeTableM.AllowZooming = true;
+            this.imgTimeTableM.BackColor = System.Drawing.Color.Transparent;
+            this.imgTimeTableM.ErrorImage = ((System.Drawing.Image)(resources.GetObject("imgTimeTableM.ErrorImage")));
+            this.imgTimeTableM.FadeWhenInactive = false;
+            this.imgTimeTableM.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.imgTimeTableM.Image = global::StaffManagment.Properties.Resources.brainstorm;
+            this.imgTimeTableM.ImageActive = null;
+            this.imgTimeTableM.ImageLocation = null;
+            this.imgTimeTableM.ImageMargin = 20;
+            this.imgTimeTableM.ImageSize = new System.Drawing.Size(130, 130);
+            this.imgTimeTableM.ImageZoomSize = new System.Drawing.Size(150, 150);
+            this.imgTimeTableM.InitialImage = ((System.Drawing.Image)(resources.GetObject("imgTimeTableM.InitialImage")));
+            this.imgTimeTableM.Location = new System.Drawing.Point(466, 458);
+            this.imgTimeTableM.Margin = new System.Windows.Forms.Padding(4);
+            this.imgTimeTableM.Name = "imgTimeTableM";
+            this.imgTimeTableM.Rotation = 0;
+            this.imgTimeTableM.ShowActiveImage = true;
+            this.imgTimeTableM.ShowCursorChanges = true;
+            this.imgTimeTableM.ShowImageBorders = true;
+            this.imgTimeTableM.ShowSizeMarkers = true;
+            this.imgTimeTableM.Size = new System.Drawing.Size(150, 150);
+            this.imgTimeTableM.TabIndex = 3;
+            this.imgTimeTableM.ToolTipText = "";
+            this.imgTimeTableM.WaitOnLoad = false;
+            this.imgTimeTableM.Zoom = 20;
+            this.imgTimeTableM.ZoomSpeed = 10;
+            this.imgTimeTableM.Click += new System.EventHandler(this.imgTimeTableM_Click);
             // 
             // imgAttendance
             // 
@@ -451,67 +454,69 @@
             this.imgAttendance.ZoomSpeed = 10;
             this.imgAttendance.Click += new System.EventHandler(this.imgAttendance_Click_1);
             // 
-            // bunifuImageButton3
+            // imgEventM
             // 
-            this.bunifuImageButton3.ActiveImage = null;
-            this.bunifuImageButton3.AllowAnimations = true;
-            this.bunifuImageButton3.AllowZooming = true;
-            this.bunifuImageButton3.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuImageButton3.ErrorImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton3.ErrorImage")));
-            this.bunifuImageButton3.FadeWhenInactive = false;
-            this.bunifuImageButton3.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
-            this.bunifuImageButton3.Image = global::StaffManagment.Properties.Resources.abacus;
-            this.bunifuImageButton3.ImageActive = null;
-            this.bunifuImageButton3.ImageLocation = null;
-            this.bunifuImageButton3.ImageMargin = 20;
-            this.bunifuImageButton3.ImageSize = new System.Drawing.Size(110, 110);
-            this.bunifuImageButton3.ImageZoomSize = new System.Drawing.Size(130, 130);
-            this.bunifuImageButton3.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton3.InitialImage")));
-            this.bunifuImageButton3.Location = new System.Drawing.Point(69, 384);
-            this.bunifuImageButton3.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuImageButton3.Name = "bunifuImageButton3";
-            this.bunifuImageButton3.Rotation = 0;
-            this.bunifuImageButton3.ShowActiveImage = true;
-            this.bunifuImageButton3.ShowCursorChanges = true;
-            this.bunifuImageButton3.ShowImageBorders = true;
-            this.bunifuImageButton3.ShowSizeMarkers = true;
-            this.bunifuImageButton3.Size = new System.Drawing.Size(130, 130);
-            this.bunifuImageButton3.TabIndex = 3;
-            this.bunifuImageButton3.ToolTipText = "";
-            this.bunifuImageButton3.WaitOnLoad = false;
-            this.bunifuImageButton3.Zoom = 20;
-            this.bunifuImageButton3.ZoomSpeed = 10;
+            this.imgEventM.ActiveImage = null;
+            this.imgEventM.AllowAnimations = true;
+            this.imgEventM.AllowZooming = true;
+            this.imgEventM.BackColor = System.Drawing.Color.Transparent;
+            this.imgEventM.ErrorImage = ((System.Drawing.Image)(resources.GetObject("imgEventM.ErrorImage")));
+            this.imgEventM.FadeWhenInactive = false;
+            this.imgEventM.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.imgEventM.Image = global::StaffManagment.Properties.Resources.abacus;
+            this.imgEventM.ImageActive = null;
+            this.imgEventM.ImageLocation = null;
+            this.imgEventM.ImageMargin = 20;
+            this.imgEventM.ImageSize = new System.Drawing.Size(110, 110);
+            this.imgEventM.ImageZoomSize = new System.Drawing.Size(130, 130);
+            this.imgEventM.InitialImage = ((System.Drawing.Image)(resources.GetObject("imgEventM.InitialImage")));
+            this.imgEventM.Location = new System.Drawing.Point(69, 384);
+            this.imgEventM.Margin = new System.Windows.Forms.Padding(4);
+            this.imgEventM.Name = "imgEventM";
+            this.imgEventM.Rotation = 0;
+            this.imgEventM.ShowActiveImage = true;
+            this.imgEventM.ShowCursorChanges = true;
+            this.imgEventM.ShowImageBorders = true;
+            this.imgEventM.ShowSizeMarkers = true;
+            this.imgEventM.Size = new System.Drawing.Size(130, 130);
+            this.imgEventM.TabIndex = 3;
+            this.imgEventM.ToolTipText = "";
+            this.imgEventM.WaitOnLoad = false;
+            this.imgEventM.Zoom = 20;
+            this.imgEventM.ZoomSpeed = 10;
+            this.imgEventM.Click += new System.EventHandler(this.imgEventM_Click);
             // 
-            // bunifuImageButton2
+            // imgExamMarks
             // 
-            this.bunifuImageButton2.ActiveImage = null;
-            this.bunifuImageButton2.AllowAnimations = true;
-            this.bunifuImageButton2.AllowZooming = true;
-            this.bunifuImageButton2.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuImageButton2.ErrorImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton2.ErrorImage")));
-            this.bunifuImageButton2.FadeWhenInactive = false;
-            this.bunifuImageButton2.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
-            this.bunifuImageButton2.Image = global::StaffManagment.Properties.Resources.desktop;
-            this.bunifuImageButton2.ImageActive = null;
-            this.bunifuImageButton2.ImageLocation = null;
-            this.bunifuImageButton2.ImageMargin = 20;
-            this.bunifuImageButton2.ImageSize = new System.Drawing.Size(130, 130);
-            this.bunifuImageButton2.ImageZoomSize = new System.Drawing.Size(150, 150);
-            this.bunifuImageButton2.InitialImage = ((System.Drawing.Image)(resources.GetObject("bunifuImageButton2.InitialImage")));
-            this.bunifuImageButton2.Location = new System.Drawing.Point(931, 126);
-            this.bunifuImageButton2.Margin = new System.Windows.Forms.Padding(4);
-            this.bunifuImageButton2.Name = "bunifuImageButton2";
-            this.bunifuImageButton2.Rotation = 0;
-            this.bunifuImageButton2.ShowActiveImage = true;
-            this.bunifuImageButton2.ShowCursorChanges = true;
-            this.bunifuImageButton2.ShowImageBorders = true;
-            this.bunifuImageButton2.ShowSizeMarkers = true;
-            this.bunifuImageButton2.Size = new System.Drawing.Size(150, 150);
-            this.bunifuImageButton2.TabIndex = 3;
-            this.bunifuImageButton2.ToolTipText = "";
-            this.bunifuImageButton2.WaitOnLoad = false;
-            this.bunifuImageButton2.Zoom = 20;
-            this.bunifuImageButton2.ZoomSpeed = 10;
+            this.imgExamMarks.ActiveImage = null;
+            this.imgExamMarks.AllowAnimations = true;
+            this.imgExamMarks.AllowZooming = true;
+            this.imgExamMarks.BackColor = System.Drawing.Color.Transparent;
+            this.imgExamMarks.ErrorImage = ((System.Drawing.Image)(resources.GetObject("imgExamMarks.ErrorImage")));
+            this.imgExamMarks.FadeWhenInactive = false;
+            this.imgExamMarks.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.imgExamMarks.Image = global::StaffManagment.Properties.Resources.desktop;
+            this.imgExamMarks.ImageActive = null;
+            this.imgExamMarks.ImageLocation = null;
+            this.imgExamMarks.ImageMargin = 20;
+            this.imgExamMarks.ImageSize = new System.Drawing.Size(130, 130);
+            this.imgExamMarks.ImageZoomSize = new System.Drawing.Size(150, 150);
+            this.imgExamMarks.InitialImage = ((System.Drawing.Image)(resources.GetObject("imgExamMarks.InitialImage")));
+            this.imgExamMarks.Location = new System.Drawing.Point(931, 126);
+            this.imgExamMarks.Margin = new System.Windows.Forms.Padding(4);
+            this.imgExamMarks.Name = "imgExamMarks";
+            this.imgExamMarks.Rotation = 0;
+            this.imgExamMarks.ShowActiveImage = true;
+            this.imgExamMarks.ShowCursorChanges = true;
+            this.imgExamMarks.ShowImageBorders = true;
+            this.imgExamMarks.ShowSizeMarkers = true;
+            this.imgExamMarks.Size = new System.Drawing.Size(150, 150);
+            this.imgExamMarks.TabIndex = 3;
+            this.imgExamMarks.ToolTipText = "";
+            this.imgExamMarks.WaitOnLoad = false;
+            this.imgExamMarks.Zoom = 20;
+            this.imgExamMarks.ZoomSpeed = 10;
+            this.imgExamMarks.Click += new System.EventHandler(this.imgExamMarks_Click);
             // 
             // bunifuImageButton1
             // 
@@ -662,11 +667,11 @@
             this.Controls.Add(this.bunifuImageButton9);
             this.Controls.Add(this.bunifuImageButton8);
             this.Controls.Add(this.imgPaymentM);
-            this.Controls.Add(this.bunifuImageButton6);
-            this.Controls.Add(this.bunifuImageButton5);
+            this.Controls.Add(this.imgInventory);
+            this.Controls.Add(this.imgTimeTableM);
             this.Controls.Add(this.imgAttendance);
-            this.Controls.Add(this.bunifuImageButton3);
-            this.Controls.Add(this.bunifuImageButton2);
+            this.Controls.Add(this.imgEventM);
+            this.Controls.Add(this.imgExamMarks);
             this.Controls.Add(this.bunifuImageButton1);
             this.Controls.Add(this.btnClose);
             this.Controls.Add(this.btnMinimize);
@@ -705,10 +710,10 @@
         private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton9;
         private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton8;
         private Bunifu.UI.WinForms.BunifuImageButton imgPaymentM;
-        private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton6;
-        private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton5;
+        private Bunifu.UI.WinForms.BunifuImageButton imgInventory;
+        private Bunifu.UI.WinForms.BunifuImageButton imgTimeTableM;
         private Bunifu.UI.WinForms.BunifuImageButton imgAttendance;
-        private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton3;
-        private Bunifu.UI.WinForms.BunifuImageButton bunifuImageButton2;
+        private Bunifu.UI.WinForms.BunifuImageButton imgEventM;
+        private Bunifu.UI.WinForms.BunifuImageButton imgExamMarks;
     }
 }

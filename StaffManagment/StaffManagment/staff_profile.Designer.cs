@@ -29,19 +29,19 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(staff_profile));
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties3 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties4 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             this.close_button = new Bunifu.UI.WinForms.BunifuImageButton();
             this.buttonminimizesd = new Bunifu.UI.WinForms.BunifuImageButton();
             this.btnnormalize = new Bunifu.UI.WinForms.BunifuImageButton();
             this.staff_profile_panel = new Bunifu.Framework.UI.BunifuGradientPanel();
             this.bunifuGradientPanel1 = new Bunifu.Framework.UI.BunifuGradientPanel();
+            this.btnMainMenu = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.logout = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.requestLeave = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.profile = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
-            this.btnMainMenu = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.bunifuGradientPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -148,11 +148,11 @@
             this.staff_profile_panel.GradientBottomRight = System.Drawing.Color.White;
             this.staff_profile_panel.GradientTopLeft = System.Drawing.Color.White;
             this.staff_profile_panel.GradientTopRight = System.Drawing.Color.White;
-            this.staff_profile_panel.Location = new System.Drawing.Point(264, 11);
+            this.staff_profile_panel.Location = new System.Drawing.Point(254, 11);
             this.staff_profile_panel.Margin = new System.Windows.Forms.Padding(2);
             this.staff_profile_panel.Name = "staff_profile_panel";
             this.staff_profile_panel.Quality = 10;
-            this.staff_profile_panel.Size = new System.Drawing.Size(1085, 746);
+            this.staff_profile_panel.Size = new System.Drawing.Size(1095, 746);
             this.staff_profile_panel.TabIndex = 5;
             // 
             // bunifuGradientPanel1
@@ -173,111 +173,6 @@
             this.bunifuGradientPanel1.Quality = 10;
             this.bunifuGradientPanel1.Size = new System.Drawing.Size(250, 769);
             this.bunifuGradientPanel1.TabIndex = 4;
-            // 
-            // logout
-            // 
-            this.logout.BackColor = System.Drawing.Color.Transparent;
-            this.logout.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("logout.BackgroundImage")));
-            this.logout.ButtonText = "LOGOUT";
-            this.logout.ButtonTextMarginLeft = 0;
-            this.logout.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
-            this.logout.DisabledFillColor = System.Drawing.Color.Gray;
-            this.logout.DisabledForecolor = System.Drawing.Color.White;
-            this.logout.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.logout.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
-            this.logout.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.logout.IconPadding = 9;
-            this.logout.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.logout.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.logout.IdleBorderRadius = 1;
-            this.logout.IdleBorderThickness = 0;
-            this.logout.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.logout.IdleIconLeftImage = global::StaffManagment.Properties.Resources.logout;
-            this.logout.IdleIconRightImage = null;
-            this.logout.Location = new System.Drawing.Point(0, 545);
-            this.logout.Margin = new System.Windows.Forms.Padding(2);
-            this.logout.Name = "logout";
-            stateProperties2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties2.BorderRadius = 1;
-            stateProperties2.BorderThickness = 1;
-            stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties2.IconLeftImage = null;
-            stateProperties2.IconRightImage = null;
-            this.logout.onHoverState = stateProperties2;
-            this.logout.Size = new System.Drawing.Size(250, 43);
-            this.logout.TabIndex = 1;
-            this.logout.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.logout.Click += new System.EventHandler(this.logout_Click);
-            // 
-            // requestLeave
-            // 
-            this.requestLeave.BackColor = System.Drawing.Color.Transparent;
-            this.requestLeave.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("requestLeave.BackgroundImage")));
-            this.requestLeave.ButtonText = "REQUEST LEAVE";
-            this.requestLeave.ButtonTextMarginLeft = 0;
-            this.requestLeave.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
-            this.requestLeave.DisabledFillColor = System.Drawing.Color.Gray;
-            this.requestLeave.DisabledForecolor = System.Drawing.Color.White;
-            this.requestLeave.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.requestLeave.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
-            this.requestLeave.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.requestLeave.IconPadding = 9;
-            this.requestLeave.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.requestLeave.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.requestLeave.IdleBorderRadius = 1;
-            this.requestLeave.IdleBorderThickness = 0;
-            this.requestLeave.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.requestLeave.IdleIconLeftImage = global::StaffManagment.Properties.Resources.update1;
-            this.requestLeave.IdleIconRightImage = null;
-            this.requestLeave.Location = new System.Drawing.Point(0, 234);
-            this.requestLeave.Margin = new System.Windows.Forms.Padding(2);
-            this.requestLeave.Name = "requestLeave";
-            stateProperties3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties3.BorderRadius = 1;
-            stateProperties3.BorderThickness = 1;
-            stateProperties3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties3.IconLeftImage = null;
-            stateProperties3.IconRightImage = null;
-            this.requestLeave.onHoverState = stateProperties3;
-            this.requestLeave.Size = new System.Drawing.Size(250, 43);
-            this.requestLeave.TabIndex = 1;
-            this.requestLeave.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.requestLeave.Click += new System.EventHandler(this.requestLeave_Click);
-            // 
-            // profile
-            // 
-            this.profile.BackColor = System.Drawing.Color.Transparent;
-            this.profile.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("profile.BackgroundImage")));
-            this.profile.ButtonText = "PROFILE";
-            this.profile.ButtonTextMarginLeft = 0;
-            this.profile.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
-            this.profile.DisabledFillColor = System.Drawing.Color.Gray;
-            this.profile.DisabledForecolor = System.Drawing.Color.White;
-            this.profile.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.profile.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
-            this.profile.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.profile.IconPadding = 9;
-            this.profile.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.profile.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.profile.IdleBorderRadius = 1;
-            this.profile.IdleBorderThickness = 0;
-            this.profile.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.profile.IdleIconLeftImage = global::StaffManagment.Properties.Resources.project;
-            this.profile.IdleIconRightImage = null;
-            this.profile.Location = new System.Drawing.Point(0, 283);
-            this.profile.Margin = new System.Windows.Forms.Padding(2);
-            this.profile.Name = "profile";
-            stateProperties4.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties4.BorderRadius = 1;
-            stateProperties4.BorderThickness = 1;
-            stateProperties4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties4.IconLeftImage = null;
-            stateProperties4.IconRightImage = null;
-            this.profile.onHoverState = stateProperties4;
-            this.profile.Size = new System.Drawing.Size(250, 43);
-            this.profile.TabIndex = 1;
-            this.profile.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.profile.Click += new System.EventHandler(this.profile_Click);
             // 
             // btnMainMenu
             // 
@@ -312,6 +207,111 @@
             this.btnMainMenu.TabIndex = 2;
             this.btnMainMenu.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMainMenu.Click += new System.EventHandler(this.btnMainMenu_Click);
+            // 
+            // logout
+            // 
+            this.logout.BackColor = System.Drawing.Color.Transparent;
+            this.logout.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("logout.BackgroundImage")));
+            this.logout.ButtonText = "LOGOUT";
+            this.logout.ButtonTextMarginLeft = 0;
+            this.logout.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
+            this.logout.DisabledFillColor = System.Drawing.Color.Gray;
+            this.logout.DisabledForecolor = System.Drawing.Color.White;
+            this.logout.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.logout.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            this.logout.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.logout.IconPadding = 9;
+            this.logout.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.logout.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.logout.IdleBorderRadius = 1;
+            this.logout.IdleBorderThickness = 0;
+            this.logout.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.logout.IdleIconLeftImage = global::StaffManagment.Properties.Resources.logout;
+            this.logout.IdleIconRightImage = null;
+            this.logout.Location = new System.Drawing.Point(0, 545);
+            this.logout.Margin = new System.Windows.Forms.Padding(2);
+            this.logout.Name = "logout";
+            stateProperties2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties2.BorderRadius = 1;
+            stateProperties2.BorderThickness = 1;
+            stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties2.IconLeftImage = global::StaffManagment.Properties.Resources.logout1;
+            stateProperties2.IconRightImage = null;
+            this.logout.onHoverState = stateProperties2;
+            this.logout.Size = new System.Drawing.Size(250, 43);
+            this.logout.TabIndex = 1;
+            this.logout.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.logout.Click += new System.EventHandler(this.logout_Click);
+            // 
+            // requestLeave
+            // 
+            this.requestLeave.BackColor = System.Drawing.Color.Transparent;
+            this.requestLeave.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("requestLeave.BackgroundImage")));
+            this.requestLeave.ButtonText = "REQUEST LEAVE";
+            this.requestLeave.ButtonTextMarginLeft = 0;
+            this.requestLeave.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
+            this.requestLeave.DisabledFillColor = System.Drawing.Color.Gray;
+            this.requestLeave.DisabledForecolor = System.Drawing.Color.White;
+            this.requestLeave.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.requestLeave.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            this.requestLeave.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.requestLeave.IconPadding = 9;
+            this.requestLeave.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.requestLeave.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.requestLeave.IdleBorderRadius = 1;
+            this.requestLeave.IdleBorderThickness = 0;
+            this.requestLeave.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.requestLeave.IdleIconLeftImage = global::StaffManagment.Properties.Resources.update1;
+            this.requestLeave.IdleIconRightImage = null;
+            this.requestLeave.Location = new System.Drawing.Point(0, 234);
+            this.requestLeave.Margin = new System.Windows.Forms.Padding(2);
+            this.requestLeave.Name = "requestLeave";
+            stateProperties3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties3.BorderRadius = 1;
+            stateProperties3.BorderThickness = 1;
+            stateProperties3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties3.IconLeftImage = global::StaffManagment.Properties.Resources.update;
+            stateProperties3.IconRightImage = null;
+            this.requestLeave.onHoverState = stateProperties3;
+            this.requestLeave.Size = new System.Drawing.Size(250, 43);
+            this.requestLeave.TabIndex = 1;
+            this.requestLeave.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.requestLeave.Click += new System.EventHandler(this.requestLeave_Click);
+            // 
+            // profile
+            // 
+            this.profile.BackColor = System.Drawing.Color.Transparent;
+            this.profile.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("profile.BackgroundImage")));
+            this.profile.ButtonText = "PROFILE";
+            this.profile.ButtonTextMarginLeft = 0;
+            this.profile.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
+            this.profile.DisabledFillColor = System.Drawing.Color.Gray;
+            this.profile.DisabledForecolor = System.Drawing.Color.White;
+            this.profile.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.profile.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            this.profile.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.profile.IconPadding = 9;
+            this.profile.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.profile.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.profile.IdleBorderRadius = 1;
+            this.profile.IdleBorderThickness = 0;
+            this.profile.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.profile.IdleIconLeftImage = global::StaffManagment.Properties.Resources.project;
+            this.profile.IdleIconRightImage = null;
+            this.profile.Location = new System.Drawing.Point(0, 283);
+            this.profile.Margin = new System.Windows.Forms.Padding(2);
+            this.profile.Name = "profile";
+            stateProperties4.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties4.BorderRadius = 1;
+            stateProperties4.BorderThickness = 1;
+            stateProperties4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties4.IconLeftImage = global::StaffManagment.Properties.Resources.project;
+            stateProperties4.IconRightImage = null;
+            this.profile.onHoverState = stateProperties4;
+            this.profile.Size = new System.Drawing.Size(250, 43);
+            this.profile.TabIndex = 1;
+            this.profile.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.profile.Click += new System.EventHandler(this.profile_Click);
             // 
             // staff_profile
             // 

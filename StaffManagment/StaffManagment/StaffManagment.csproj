@@ -461,6 +461,7 @@
     <None Include="Resources\logo11.png" />
     <None Include="Resources\logout1.png" />
     <None Include="Resources\print.png" />
+    <None Include="Resources\error.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -489,6 +490,24 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PopupMessage\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Eventmanage\Eventmanage\Eventmanage.csproj">
+      <Project>{7489474b-6ed9-47f9-a80f-df3f6ace5919}</Project>
+      <Name>Eventmanage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\examMarks\examMarks\ExamMarks.csproj">
+      <Project>{500788f5-6b99-48ae-9508-d4f1a83e4641}</Project>
+      <Name>ExamMarks</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Time Table Management\TimeTableManagement\TimeTableManagement.csproj">
+      <Project>{8f7c5096-66f5-4be2-a4e5-51aee425a9e7}</Project>
+      <Name>TimeTableManagement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\WindowsFormsApp2\WindowsFormsApp2\InventoryManagement.csproj">
+      <Project>{e169bcac-d3d0-4ec8-8f1c-bc3071a501bc}</Project>
+      <Name>InventoryManagement</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

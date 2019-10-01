@@ -5,6 +5,14 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffManagment", "StaffManagment\StaffManagment.csproj", "{9BD38CDA-B8E2-4301-BBBC-800714A933E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement", "..\..\WindowsFormsApp2\WindowsFormsApp2\InventoryManagement.csproj", "{E169BCAC-D3D0-4EC8-8F1C-BC3071A501BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamMarks", "..\..\examMarks\examMarks\ExamMarks.csproj", "{500788F5-6B99-48AE-9508-D4F1A83E4641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventmanage", "..\..\Eventmanage\Eventmanage\Eventmanage.csproj", "{7489474B-6ED9-47F9-A80F-DF3F6ACE5919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTableManagement", "..\..\Time Table Management\TimeTableManagement\TimeTableManagement.csproj", "{8F7C5096-66F5-4BE2-A4E5-51AEE425A9E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{9BD38CDA-B8E2-4301-BBBC-800714A933E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD38CDA-B8E2-4301-BBBC-800714A933E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD38CDA-B8E2-4301-BBBC-800714A933E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E169BCAC-D3D0-4EC8-8F1C-BC3071A501BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E169BCAC-D3D0-4EC8-8F1C-BC3071A501BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E169BCAC-D3D0-4EC8-8F1C-BC3071A501BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E169BCAC-D3D0-4EC8-8F1C-BC3071A501BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500788F5-6B99-48AE-9508-D4F1A83E4641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500788F5-6B99-48AE-9508-D4F1A83E4641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500788F5-6B99-48AE-9508-D4F1A83E4641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500788F5-6B99-48AE-9508-D4F1A83E4641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7489474B-6ED9-47F9-A80F-DF3F6ACE5919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7489474B-6ED9-47F9-A80F-DF3F6ACE5919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7489474B-6ED9-47F9-A80F-DF3F6ACE5919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7489474B-6ED9-47F9-A80F-DF3F6ACE5919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7C5096-66F5-4BE2-A4E5-51AEE425A9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7C5096-66F5-4BE2-A4E5-51AEE425A9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7C5096-66F5-4BE2-A4E5-51AEE425A9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7C5096-66F5-4BE2-A4E5-51AEE425A9E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

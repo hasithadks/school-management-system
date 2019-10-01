@@ -97,9 +97,8 @@ namespace StaffManagment
 
         private void logout_Click(object sender, EventArgs e)
         {
-
-            Login lg = new Login();
             this.Hide();
+            Login lg = new Login();
             lg.Show();
 
 
@@ -108,7 +107,7 @@ namespace StaffManagment
 
         private void staff_profile_Load(object sender, EventArgs e)
         {
-
+            staff_profile_panel.Controls.Add(requestleave.StaffManagmentInstance_6);
         }
 
         private void btnMainMenu_Click(object sender, EventArgs e)

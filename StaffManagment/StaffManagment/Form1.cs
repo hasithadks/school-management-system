@@ -83,5 +83,17 @@ namespace StaffManagment
             mainMenu mMenu = new mainMenu();
             mMenu.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            staff_main_pannel.Controls.Add(StaffManagment.StaffManagmentInstance);
+        }
+
+        private void logout_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login lg = new Login();
+            lg.Show();
+        }
     }
 }

@@ -37,13 +37,8 @@
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties5 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties6 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             this.DragControlMainPanel = new Bunifu.Framework.UI.BunifuDragControl(this.components);
-            this.DragControlSidePanel = new Bunifu.Framework.UI.BunifuDragControl(this.components);
-            this.ElipseMainPanel = new Bunifu.Framework.UI.BunifuElipse(this.components);
-            this.ElipseSidePanel = new Bunifu.Framework.UI.BunifuElipse(this.components);
-            this.btnClose = new Bunifu.UI.WinForms.BunifuImageButton();
-            this.btnMinimize = new Bunifu.UI.WinForms.BunifuImageButton();
-            this.btnNormalize = new Bunifu.UI.WinForms.BunifuImageButton();
             this.paymentMainPanel = new Bunifu.Framework.UI.BunifuGradientPanel();
+            this.DragControlSidePanel = new Bunifu.Framework.UI.BunifuDragControl(this.components);
             this.paymentSidePanel = new Bunifu.Framework.UI.BunifuGradientPanel();
             this.bunifuButton6 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.btnReport = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
@@ -51,6 +46,11 @@
             this.btnPayroll = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.btnExpenses = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.btnMainMenu = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.ElipseMainPanel = new Bunifu.Framework.UI.BunifuElipse(this.components);
+            this.ElipseSidePanel = new Bunifu.Framework.UI.BunifuElipse(this.components);
+            this.btnClose = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.btnMinimize = new Bunifu.UI.WinForms.BunifuImageButton();
+            this.btnNormalize = new Bunifu.UI.WinForms.BunifuImageButton();
             this.paymentSidePanel.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,115 +60,6 @@
             this.DragControlMainPanel.Horizontal = true;
             this.DragControlMainPanel.TargetControl = this.paymentMainPanel;
             this.DragControlMainPanel.Vertical = true;
-            // 
-            // DragControlSidePanel
-            // 
-            this.DragControlSidePanel.Fixed = true;
-            this.DragControlSidePanel.Horizontal = true;
-            this.DragControlSidePanel.TargetControl = this.paymentSidePanel;
-            this.DragControlSidePanel.Vertical = true;
-            // 
-            // ElipseMainPanel
-            // 
-            this.ElipseMainPanel.ElipseRadius = 0;
-            this.ElipseMainPanel.TargetControl = this.paymentMainPanel;
-            // 
-            // ElipseSidePanel
-            // 
-            this.ElipseSidePanel.ElipseRadius = 0;
-            this.ElipseSidePanel.TargetControl = this.paymentSidePanel;
-            // 
-            // btnClose
-            // 
-            this.btnClose.ActiveImage = null;
-            this.btnClose.AllowAnimations = true;
-            this.btnClose.AllowZooming = true;
-            this.btnClose.BackColor = System.Drawing.Color.Transparent;
-            this.btnClose.ErrorImage = ((System.Drawing.Image)(resources.GetObject("btnClose.ErrorImage")));
-            this.btnClose.FadeWhenInactive = false;
-            this.btnClose.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
-            this.btnClose.Image = global::StaffManagment.Properties.Resources.closebtn;
-            this.btnClose.ImageActive = null;
-            this.btnClose.ImageLocation = null;
-            this.btnClose.ImageMargin = 10;
-            this.btnClose.ImageSize = new System.Drawing.Size(28, 25);
-            this.btnClose.ImageZoomSize = new System.Drawing.Size(38, 35);
-            this.btnClose.InitialImage = ((System.Drawing.Image)(resources.GetObject("btnClose.InitialImage")));
-            this.btnClose.Location = new System.Drawing.Point(1322, 0);
-            this.btnClose.Name = "btnClose";
-            this.btnClose.Rotation = 0;
-            this.btnClose.ShowActiveImage = true;
-            this.btnClose.ShowCursorChanges = true;
-            this.btnClose.ShowImageBorders = true;
-            this.btnClose.ShowSizeMarkers = true;
-            this.btnClose.Size = new System.Drawing.Size(38, 35);
-            this.btnClose.TabIndex = 2;
-            this.btnClose.ToolTipText = "";
-            this.btnClose.WaitOnLoad = false;
-            this.btnClose.Zoom = 10;
-            this.btnClose.ZoomSpeed = 10;
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
-            // 
-            // btnMinimize
-            // 
-            this.btnMinimize.ActiveImage = null;
-            this.btnMinimize.AllowAnimations = true;
-            this.btnMinimize.AllowZooming = true;
-            this.btnMinimize.BackColor = System.Drawing.Color.Transparent;
-            this.btnMinimize.ErrorImage = ((System.Drawing.Image)(resources.GetObject("btnMinimize.ErrorImage")));
-            this.btnMinimize.FadeWhenInactive = false;
-            this.btnMinimize.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
-            this.btnMinimize.Image = global::StaffManagment.Properties.Resources.minibtn;
-            this.btnMinimize.ImageActive = null;
-            this.btnMinimize.ImageLocation = null;
-            this.btnMinimize.ImageMargin = 10;
-            this.btnMinimize.ImageSize = new System.Drawing.Size(28, 25);
-            this.btnMinimize.ImageZoomSize = new System.Drawing.Size(38, 35);
-            this.btnMinimize.InitialImage = ((System.Drawing.Image)(resources.GetObject("btnMinimize.InitialImage")));
-            this.btnMinimize.Location = new System.Drawing.Point(1249, 0);
-            this.btnMinimize.Name = "btnMinimize";
-            this.btnMinimize.Rotation = 0;
-            this.btnMinimize.ShowActiveImage = true;
-            this.btnMinimize.ShowCursorChanges = true;
-            this.btnMinimize.ShowImageBorders = true;
-            this.btnMinimize.ShowSizeMarkers = true;
-            this.btnMinimize.Size = new System.Drawing.Size(38, 35);
-            this.btnMinimize.TabIndex = 2;
-            this.btnMinimize.ToolTipText = "";
-            this.btnMinimize.WaitOnLoad = false;
-            this.btnMinimize.Zoom = 10;
-            this.btnMinimize.ZoomSpeed = 10;
-            this.btnMinimize.Click += new System.EventHandler(this.btnMinimize_Click);
-            // 
-            // btnNormalize
-            // 
-            this.btnNormalize.ActiveImage = null;
-            this.btnNormalize.AllowAnimations = true;
-            this.btnNormalize.AllowZooming = true;
-            this.btnNormalize.BackColor = System.Drawing.Color.Transparent;
-            this.btnNormalize.ErrorImage = ((System.Drawing.Image)(resources.GetObject("btnNormalize.ErrorImage")));
-            this.btnNormalize.FadeWhenInactive = false;
-            this.btnNormalize.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
-            this.btnNormalize.Image = global::StaffManagment.Properties.Resources.Maxibtn;
-            this.btnNormalize.ImageActive = null;
-            this.btnNormalize.ImageLocation = null;
-            this.btnNormalize.ImageMargin = 10;
-            this.btnNormalize.ImageSize = new System.Drawing.Size(28, 25);
-            this.btnNormalize.ImageZoomSize = new System.Drawing.Size(38, 35);
-            this.btnNormalize.InitialImage = ((System.Drawing.Image)(resources.GetObject("btnNormalize.InitialImage")));
-            this.btnNormalize.Location = new System.Drawing.Point(1285, 0);
-            this.btnNormalize.Name = "btnNormalize";
-            this.btnNormalize.Rotation = 0;
-            this.btnNormalize.ShowActiveImage = true;
-            this.btnNormalize.ShowCursorChanges = true;
-            this.btnNormalize.ShowImageBorders = true;
-            this.btnNormalize.ShowSizeMarkers = true;
-            this.btnNormalize.Size = new System.Drawing.Size(38, 35);
-            this.btnNormalize.TabIndex = 2;
-            this.btnNormalize.ToolTipText = "";
-            this.btnNormalize.WaitOnLoad = false;
-            this.btnNormalize.Zoom = 10;
-            this.btnNormalize.ZoomSpeed = 10;
             // 
             // paymentMainPanel
             // 
@@ -184,6 +75,13 @@
             this.paymentMainPanel.Size = new System.Drawing.Size(1098, 755);
             this.paymentMainPanel.TabIndex = 1;
             this.paymentMainPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.paymentMainPanel_Paint);
+            // 
+            // DragControlSidePanel
+            // 
+            this.DragControlSidePanel.Fixed = true;
+            this.DragControlSidePanel.Horizontal = true;
+            this.DragControlSidePanel.TargetControl = this.paymentSidePanel;
+            this.DragControlSidePanel.Vertical = true;
             // 
             // paymentSidePanel
             // 
@@ -237,6 +135,7 @@
             this.bunifuButton6.Size = new System.Drawing.Size(250, 43);
             this.bunifuButton6.TabIndex = 1;
             this.bunifuButton6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.bunifuButton6.Click += new System.EventHandler(this.bunifuButton6_Click);
             // 
             // btnReport
             // 
@@ -407,6 +306,108 @@
             this.btnMainMenu.TabIndex = 1;
             this.btnMainMenu.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnMainMenu.Click += new System.EventHandler(this.btnMainMenu_Click);
+            // 
+            // ElipseMainPanel
+            // 
+            this.ElipseMainPanel.ElipseRadius = 0;
+            this.ElipseMainPanel.TargetControl = this.paymentMainPanel;
+            // 
+            // ElipseSidePanel
+            // 
+            this.ElipseSidePanel.ElipseRadius = 0;
+            this.ElipseSidePanel.TargetControl = this.paymentSidePanel;
+            // 
+            // btnClose
+            // 
+            this.btnClose.ActiveImage = null;
+            this.btnClose.AllowAnimations = true;
+            this.btnClose.AllowZooming = true;
+            this.btnClose.BackColor = System.Drawing.Color.Transparent;
+            this.btnClose.ErrorImage = ((System.Drawing.Image)(resources.GetObject("btnClose.ErrorImage")));
+            this.btnClose.FadeWhenInactive = false;
+            this.btnClose.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.btnClose.Image = global::StaffManagment.Properties.Resources.closebtn;
+            this.btnClose.ImageActive = null;
+            this.btnClose.ImageLocation = null;
+            this.btnClose.ImageMargin = 10;
+            this.btnClose.ImageSize = new System.Drawing.Size(28, 25);
+            this.btnClose.ImageZoomSize = new System.Drawing.Size(38, 35);
+            this.btnClose.InitialImage = ((System.Drawing.Image)(resources.GetObject("btnClose.InitialImage")));
+            this.btnClose.Location = new System.Drawing.Point(1322, 0);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Rotation = 0;
+            this.btnClose.ShowActiveImage = true;
+            this.btnClose.ShowCursorChanges = true;
+            this.btnClose.ShowImageBorders = true;
+            this.btnClose.ShowSizeMarkers = true;
+            this.btnClose.Size = new System.Drawing.Size(38, 35);
+            this.btnClose.TabIndex = 2;
+            this.btnClose.ToolTipText = "";
+            this.btnClose.WaitOnLoad = false;
+            this.btnClose.Zoom = 10;
+            this.btnClose.ZoomSpeed = 10;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
+            // btnMinimize
+            // 
+            this.btnMinimize.ActiveImage = null;
+            this.btnMinimize.AllowAnimations = true;
+            this.btnMinimize.AllowZooming = true;
+            this.btnMinimize.BackColor = System.Drawing.Color.Transparent;
+            this.btnMinimize.ErrorImage = ((System.Drawing.Image)(resources.GetObject("btnMinimize.ErrorImage")));
+            this.btnMinimize.FadeWhenInactive = false;
+            this.btnMinimize.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.btnMinimize.Image = global::StaffManagment.Properties.Resources.minibtn;
+            this.btnMinimize.ImageActive = null;
+            this.btnMinimize.ImageLocation = null;
+            this.btnMinimize.ImageMargin = 10;
+            this.btnMinimize.ImageSize = new System.Drawing.Size(28, 25);
+            this.btnMinimize.ImageZoomSize = new System.Drawing.Size(38, 35);
+            this.btnMinimize.InitialImage = ((System.Drawing.Image)(resources.GetObject("btnMinimize.InitialImage")));
+            this.btnMinimize.Location = new System.Drawing.Point(1249, 0);
+            this.btnMinimize.Name = "btnMinimize";
+            this.btnMinimize.Rotation = 0;
+            this.btnMinimize.ShowActiveImage = true;
+            this.btnMinimize.ShowCursorChanges = true;
+            this.btnMinimize.ShowImageBorders = true;
+            this.btnMinimize.ShowSizeMarkers = true;
+            this.btnMinimize.Size = new System.Drawing.Size(38, 35);
+            this.btnMinimize.TabIndex = 2;
+            this.btnMinimize.ToolTipText = "";
+            this.btnMinimize.WaitOnLoad = false;
+            this.btnMinimize.Zoom = 10;
+            this.btnMinimize.ZoomSpeed = 10;
+            this.btnMinimize.Click += new System.EventHandler(this.btnMinimize_Click);
+            // 
+            // btnNormalize
+            // 
+            this.btnNormalize.ActiveImage = null;
+            this.btnNormalize.AllowAnimations = true;
+            this.btnNormalize.AllowZooming = true;
+            this.btnNormalize.BackColor = System.Drawing.Color.Transparent;
+            this.btnNormalize.ErrorImage = ((System.Drawing.Image)(resources.GetObject("btnNormalize.ErrorImage")));
+            this.btnNormalize.FadeWhenInactive = false;
+            this.btnNormalize.Flip = Bunifu.UI.WinForms.BunifuImageButton.FlipOrientation.Normal;
+            this.btnNormalize.Image = global::StaffManagment.Properties.Resources.Maxibtn;
+            this.btnNormalize.ImageActive = null;
+            this.btnNormalize.ImageLocation = null;
+            this.btnNormalize.ImageMargin = 10;
+            this.btnNormalize.ImageSize = new System.Drawing.Size(28, 25);
+            this.btnNormalize.ImageZoomSize = new System.Drawing.Size(38, 35);
+            this.btnNormalize.InitialImage = ((System.Drawing.Image)(resources.GetObject("btnNormalize.InitialImage")));
+            this.btnNormalize.Location = new System.Drawing.Point(1285, 0);
+            this.btnNormalize.Name = "btnNormalize";
+            this.btnNormalize.Rotation = 0;
+            this.btnNormalize.ShowActiveImage = true;
+            this.btnNormalize.ShowCursorChanges = true;
+            this.btnNormalize.ShowImageBorders = true;
+            this.btnNormalize.ShowSizeMarkers = true;
+            this.btnNormalize.Size = new System.Drawing.Size(38, 35);
+            this.btnNormalize.TabIndex = 2;
+            this.btnNormalize.ToolTipText = "";
+            this.btnNormalize.WaitOnLoad = false;
+            this.btnNormalize.Zoom = 10;
+            this.btnNormalize.ZoomSpeed = 10;
             // 
             // PaymentHomePage
             // 

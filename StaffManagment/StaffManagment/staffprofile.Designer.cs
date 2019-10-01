@@ -28,14 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(staffprofile));
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties3 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
-            this.dataGridViewPendingLeaves = new System.Windows.Forms.DataGridView();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.chng_password = new System.Windows.Forms.GroupBox();
             this.changePassword_btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.newPassword_txt = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
@@ -46,42 +46,10 @@
             this.currentPassword = new Bunifu.UI.WinForms.BunifuLabel();
             this.canclebtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.requestbtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPendingLeaves)).BeginInit();
+            this.dataGridViewPendingLeaves = new Bunifu.Framework.UI.BunifuCustomDataGrid();
             this.chng_password.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPendingLeaves)).BeginInit();
             this.SuspendLayout();
-            // 
-            // dataGridViewPendingLeaves
-            // 
-            this.dataGridViewPendingLeaves.BackgroundColor = System.Drawing.SystemColors.ControlLight;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridViewPendingLeaves.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
-            this.dataGridViewPendingLeaves.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 9.75F);
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridViewPendingLeaves.DefaultCellStyle = dataGridViewCellStyle2;
-            this.dataGridViewPendingLeaves.Location = new System.Drawing.Point(49, 63);
-            this.dataGridViewPendingLeaves.Name = "dataGridViewPendingLeaves";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Century Gothic", 9.75F);
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridViewPendingLeaves.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
-            this.dataGridViewPendingLeaves.Size = new System.Drawing.Size(471, 345);
-            this.dataGridViewPendingLeaves.TabIndex = 11;
             // 
             // chng_password
             // 
@@ -332,7 +300,7 @@
             stateProperties2.BorderRadius = 1;
             stateProperties2.BorderThickness = 1;
             stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties2.IconLeftImage = null;
+            stateProperties2.IconLeftImage = global::StaffManagment.Properties.Resources.close;
             stateProperties2.IconRightImage = null;
             this.canclebtn.onHoverState = stateProperties2;
             this.canclebtn.Size = new System.Drawing.Size(149, 32);
@@ -368,7 +336,7 @@
             stateProperties3.BorderRadius = 1;
             stateProperties3.BorderThickness = 1;
             stateProperties3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties3.IconLeftImage = null;
+            stateProperties3.IconLeftImage = global::StaffManagment.Properties.Resources.demo1;
             stateProperties3.IconRightImage = null;
             this.requestbtn.onHoverState = stateProperties3;
             this.requestbtn.Size = new System.Drawing.Size(149, 32);
@@ -376,27 +344,72 @@
             this.requestbtn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.requestbtn.Click += new System.EventHandler(this.requestbtn_Click);
             // 
+            // dataGridViewPendingLeaves
+            // 
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Century Gothic", 12F);
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            this.dataGridViewPendingLeaves.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.dataGridViewPendingLeaves.BackgroundColor = System.Drawing.Color.White;
+            this.dataGridViewPendingLeaves.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dataGridViewPendingLeaves.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(201)))), ((int)(((byte)(209)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridViewPendingLeaves.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.dataGridViewPendingLeaves.ColumnHeadersHeight = 30;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.Silver;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridViewPendingLeaves.DefaultCellStyle = dataGridViewCellStyle3;
+            this.dataGridViewPendingLeaves.DoubleBuffered = true;
+            this.dataGridViewPendingLeaves.EnableHeadersVisualStyles = false;
+            this.dataGridViewPendingLeaves.HeaderBgColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(201)))), ((int)(((byte)(209)))));
+            this.dataGridViewPendingLeaves.HeaderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            this.dataGridViewPendingLeaves.Location = new System.Drawing.Point(48, 80);
+            this.dataGridViewPendingLeaves.Name = "dataGridViewPendingLeaves";
+            this.dataGridViewPendingLeaves.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridViewPendingLeaves.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
+            this.dataGridViewPendingLeaves.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridViewPendingLeaves.Size = new System.Drawing.Size(471, 345);
+            this.dataGridViewPendingLeaves.TabIndex = 70;
+            // 
             // staffprofile
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.dataGridViewPendingLeaves);
             this.Controls.Add(this.canclebtn);
             this.Controls.Add(this.requestbtn);
             this.Controls.Add(this.chng_password);
-            this.Controls.Add(this.dataGridViewPendingLeaves);
             this.Name = "staffprofile";
             this.Size = new System.Drawing.Size(1085, 737);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPendingLeaves)).EndInit();
             this.chng_password.ResumeLayout(false);
             this.chng_password.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewPendingLeaves)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.DataGridView dataGridViewPendingLeaves;
         private System.Windows.Forms.GroupBox chng_password;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton changePassword_btn;
         private Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox newPassword_txt;
@@ -407,5 +420,6 @@
         private Bunifu.UI.WinForms.BunifuLabel currentPassword;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton requestbtn;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton canclebtn;
+        public Bunifu.Framework.UI.BunifuCustomDataGrid dataGridViewPendingLeaves;
     }
 }

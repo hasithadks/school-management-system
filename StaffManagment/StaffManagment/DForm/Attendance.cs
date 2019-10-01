@@ -94,7 +94,7 @@ namespace SchoolManagementSystem
                 con.Close();
 
                 InUC.Hide();
-                SuccessfullMessageBox.ShowDialog("Attendance Insert Successfully", "Successfully Inserted");
+                SuccessfullMessageBox.ShowDialog("Attendance Start Time Successfully", "Successfully Inserted");
                 InUC.Show();
             }
         }
@@ -109,6 +109,10 @@ namespace SchoolManagementSystem
             con.Open();
             cmd3.ExecuteNonQuery();
             con.Close();
+
+            InUC.Hide();
+            SuccessfullMessageBox.ShowDialog("Attendance Leave Time Successfully", "Successfully Inserted");
+            InUC.Show();
         }
 
         public void GetDate() {

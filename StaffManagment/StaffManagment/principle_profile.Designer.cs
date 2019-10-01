@@ -28,15 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(principle_profile));
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(principle_profile));
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties3 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
             Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties stateProperties4 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.StateProperties();
-            this.pendingLeaveDataGrid = new System.Windows.Forms.DataGridView();
             this.bunifuLabel1 = new Bunifu.UI.WinForms.BunifuLabel();
             this.bunifuLabel2 = new Bunifu.UI.WinForms.BunifuLabel();
             this.bunifuLabel3 = new Bunifu.UI.WinForms.BunifuLabel();
@@ -47,62 +47,28 @@
             this.reasonLable = new Bunifu.UI.WinForms.BunifuLabel();
             this.dateLable = new Bunifu.UI.WinForms.BunifuLabel();
             this.bunifuLabel10 = new Bunifu.UI.WinForms.BunifuLabel();
-            this.confirmbtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
-            this.cancelbtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
-            this.refreashbtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.bunifuLabel6 = new Bunifu.UI.WinForms.BunifuLabel();
             this.nameLable = new Bunifu.UI.WinForms.BunifuLabel();
-            this.staffpicPictureBox = new System.Windows.Forms.PictureBox();
-            this.currentPassword_txt = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
-            this.confirmPassword_txt = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
-            this.newPassword_txt = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
-            this.changePassword_btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.currentPassword = new Bunifu.UI.WinForms.BunifuLabel();
             this.newPassword = new Bunifu.UI.WinForms.BunifuLabel();
             this.confirmPassword = new Bunifu.UI.WinForms.BunifuLabel();
             this.chng_password = new System.Windows.Forms.GroupBox();
             this.bunifuLabel7 = new Bunifu.UI.WinForms.BunifuLabel();
             this.bunifuLabel8 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.changePassword_btn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.bunifuLabel9 = new Bunifu.UI.WinForms.BunifuLabel();
+            this.newPassword_txt = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
+            this.confirmPassword_txt = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
+            this.currentPassword_txt = new Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox();
+            this.pendingLeaveDataGrid = new Bunifu.Framework.UI.BunifuCustomDataGrid();
+            this.staffpicPictureBox = new System.Windows.Forms.PictureBox();
+            this.refreashbtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.cancelbtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.confirmbtn = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.chng_password.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pendingLeaveDataGrid)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.staffpicPictureBox)).BeginInit();
-            this.chng_password.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // pendingLeaveDataGrid
-            // 
-            this.pendingLeaveDataGrid.BackgroundColor = System.Drawing.SystemColors.ControlLight;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.pendingLeaveDataGrid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
-            this.pendingLeaveDataGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.pendingLeaveDataGrid.DefaultCellStyle = dataGridViewCellStyle2;
-            this.pendingLeaveDataGrid.Location = new System.Drawing.Point(591, 94);
-            this.pendingLeaveDataGrid.Name = "pendingLeaveDataGrid";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.pendingLeaveDataGrid.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
-            this.pendingLeaveDataGrid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.pendingLeaveDataGrid.Size = new System.Drawing.Size(471, 622);
-            this.pendingLeaveDataGrid.TabIndex = 11;
-            this.pendingLeaveDataGrid.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.pendingLeaveDataGrid_MouseDoubleClick);
             // 
             // bunifuLabel1
             // 
@@ -235,114 +201,6 @@
             this.bunifuLabel10.Text = "Leave Confirmations";
             this.bunifuLabel10.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
             // 
-            // confirmbtn
-            // 
-            this.confirmbtn.BackColor = System.Drawing.Color.Transparent;
-            this.confirmbtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("confirmbtn.BackgroundImage")));
-            this.confirmbtn.ButtonText = "Confirm";
-            this.confirmbtn.ButtonTextMarginLeft = 0;
-            this.confirmbtn.Cursor = System.Windows.Forms.Cursors.Default;
-            this.confirmbtn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
-            this.confirmbtn.DisabledFillColor = System.Drawing.Color.Gray;
-            this.confirmbtn.DisabledForecolor = System.Drawing.Color.White;
-            this.confirmbtn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.confirmbtn.ForeColor = System.Drawing.Color.White;
-            this.confirmbtn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.confirmbtn.IconPadding = 6;
-            this.confirmbtn.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.confirmbtn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.confirmbtn.IdleBorderRadius = 1;
-            this.confirmbtn.IdleBorderThickness = 0;
-            this.confirmbtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.confirmbtn.IdleIconLeftImage = global::StaffManagment.Properties.Resources.success;
-            this.confirmbtn.IdleIconRightImage = null;
-            this.confirmbtn.Location = new System.Drawing.Point(186, 283);
-            this.confirmbtn.Margin = new System.Windows.Forms.Padding(2);
-            this.confirmbtn.Name = "confirmbtn";
-            stateProperties1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties1.BorderRadius = 1;
-            stateProperties1.BorderThickness = 1;
-            stateProperties1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties1.IconLeftImage = null;
-            stateProperties1.IconRightImage = null;
-            this.confirmbtn.onHoverState = stateProperties1;
-            this.confirmbtn.Size = new System.Drawing.Size(127, 32);
-            this.confirmbtn.TabIndex = 20;
-            this.confirmbtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.confirmbtn.Click += new System.EventHandler(this.confirmbtn_Click);
-            // 
-            // cancelbtn
-            // 
-            this.cancelbtn.BackColor = System.Drawing.Color.Transparent;
-            this.cancelbtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cancelbtn.BackgroundImage")));
-            this.cancelbtn.ButtonText = "Cancel";
-            this.cancelbtn.ButtonTextMarginLeft = 0;
-            this.cancelbtn.Cursor = System.Windows.Forms.Cursors.Default;
-            this.cancelbtn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
-            this.cancelbtn.DisabledFillColor = System.Drawing.Color.Gray;
-            this.cancelbtn.DisabledForecolor = System.Drawing.Color.White;
-            this.cancelbtn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cancelbtn.ForeColor = System.Drawing.Color.White;
-            this.cancelbtn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.cancelbtn.IconPadding = 6;
-            this.cancelbtn.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.cancelbtn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.cancelbtn.IdleBorderRadius = 1;
-            this.cancelbtn.IdleBorderThickness = 0;
-            this.cancelbtn.IdleFillColor = System.Drawing.Color.Maroon;
-            this.cancelbtn.IdleIconLeftImage = global::StaffManagment.Properties.Resources.close;
-            this.cancelbtn.IdleIconRightImage = null;
-            this.cancelbtn.Location = new System.Drawing.Point(38, 283);
-            this.cancelbtn.Margin = new System.Windows.Forms.Padding(2);
-            this.cancelbtn.Name = "cancelbtn";
-            stateProperties2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties2.BorderRadius = 1;
-            stateProperties2.BorderThickness = 1;
-            stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties2.IconLeftImage = null;
-            stateProperties2.IconRightImage = null;
-            this.cancelbtn.onHoverState = stateProperties2;
-            this.cancelbtn.Size = new System.Drawing.Size(127, 32);
-            this.cancelbtn.TabIndex = 30;
-            this.cancelbtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.cancelbtn.Click += new System.EventHandler(this.cancelbtn_Click);
-            // 
-            // refreashbtn
-            // 
-            this.refreashbtn.BackColor = System.Drawing.Color.Transparent;
-            this.refreashbtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("refreashbtn.BackgroundImage")));
-            this.refreashbtn.ButtonText = "Refresh";
-            this.refreashbtn.ButtonTextMarginLeft = 0;
-            this.refreashbtn.Cursor = System.Windows.Forms.Cursors.Default;
-            this.refreashbtn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
-            this.refreashbtn.DisabledFillColor = System.Drawing.Color.Gray;
-            this.refreashbtn.DisabledForecolor = System.Drawing.Color.White;
-            this.refreashbtn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.refreashbtn.ForeColor = System.Drawing.Color.White;
-            this.refreashbtn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.refreashbtn.IconPadding = 6;
-            this.refreashbtn.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.refreashbtn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.refreashbtn.IdleBorderRadius = 1;
-            this.refreashbtn.IdleBorderThickness = 0;
-            this.refreashbtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.refreashbtn.IdleIconLeftImage = global::StaffManagment.Properties.Resources.reset;
-            this.refreashbtn.IdleIconRightImage = null;
-            this.refreashbtn.Location = new System.Drawing.Point(591, 50);
-            this.refreashbtn.Margin = new System.Windows.Forms.Padding(2);
-            this.refreashbtn.Name = "refreashbtn";
-            stateProperties3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties3.BorderRadius = 1;
-            stateProperties3.BorderThickness = 1;
-            stateProperties3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties3.IconLeftImage = null;
-            stateProperties3.IconRightImage = null;
-            this.refreashbtn.onHoverState = stateProperties3;
-            this.refreashbtn.Size = new System.Drawing.Size(91, 32);
-            this.refreashbtn.TabIndex = 31;
-            this.refreashbtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.refreashbtn.Click += new System.EventHandler(this.refreashbtn_Click);
-            // 
             // bunifuLabel6
             // 
             this.bunifuLabel6.AutoEllipsis = false;
@@ -369,183 +227,6 @@
             this.nameLable.TabIndex = 33;
             this.nameLable.Text = null;
             this.nameLable.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
-            // 
-            // staffpicPictureBox
-            // 
-            this.staffpicPictureBox.Location = new System.Drawing.Point(356, 55);
-            this.staffpicPictureBox.Name = "staffpicPictureBox";
-            this.staffpicPictureBox.Size = new System.Drawing.Size(108, 120);
-            this.staffpicPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.staffpicPictureBox.TabIndex = 34;
-            this.staffpicPictureBox.TabStop = false;
-            // 
-            // currentPassword_txt
-            // 
-            this.currentPassword_txt.AcceptsReturn = false;
-            this.currentPassword_txt.AcceptsTab = false;
-            this.currentPassword_txt.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
-            this.currentPassword_txt.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
-            this.currentPassword_txt.BackColor = System.Drawing.Color.Transparent;
-            this.currentPassword_txt.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("currentPassword_txt.BackgroundImage")));
-            this.currentPassword_txt.BorderColorActive = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.currentPassword_txt.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.currentPassword_txt.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.currentPassword_txt.BorderColorIdle = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.currentPassword_txt.BorderRadius = 1;
-            this.currentPassword_txt.BorderThickness = 1;
-            this.currentPassword_txt.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
-            this.currentPassword_txt.DefaultFont = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.currentPassword_txt.DefaultText = "";
-            this.currentPassword_txt.FillColor = System.Drawing.Color.White;
-            this.currentPassword_txt.HideSelection = true;
-            this.currentPassword_txt.IconLeft = null;
-            this.currentPassword_txt.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.currentPassword_txt.IconPadding = 10;
-            this.currentPassword_txt.IconRight = null;
-            this.currentPassword_txt.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.currentPassword_txt.Location = new System.Drawing.Point(177, 37);
-            this.currentPassword_txt.MaxLength = 32767;
-            this.currentPassword_txt.MinimumSize = new System.Drawing.Size(100, 35);
-            this.currentPassword_txt.Modified = false;
-            this.currentPassword_txt.Name = "currentPassword_txt";
-            this.currentPassword_txt.PasswordChar = '\0';
-            this.currentPassword_txt.ReadOnly = false;
-            this.currentPassword_txt.SelectedText = "";
-            this.currentPassword_txt.SelectionLength = 0;
-            this.currentPassword_txt.SelectionStart = 0;
-            this.currentPassword_txt.ShortcutsEnabled = true;
-            this.currentPassword_txt.Size = new System.Drawing.Size(344, 35);
-            this.currentPassword_txt.Style = Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox._Style.Bunifu;
-            this.currentPassword_txt.TabIndex = 15;
-            this.currentPassword_txt.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.currentPassword_txt.TextMarginLeft = 5;
-            this.currentPassword_txt.TextPlaceholder = "";
-            this.currentPassword_txt.UseSystemPasswordChar = false;
-            this.currentPassword_txt.TextChange += new System.EventHandler(this.currentPassword_txt_TextChange);
-            // 
-            // confirmPassword_txt
-            // 
-            this.confirmPassword_txt.AcceptsReturn = false;
-            this.confirmPassword_txt.AcceptsTab = false;
-            this.confirmPassword_txt.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
-            this.confirmPassword_txt.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
-            this.confirmPassword_txt.BackColor = System.Drawing.Color.Transparent;
-            this.confirmPassword_txt.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("confirmPassword_txt.BackgroundImage")));
-            this.confirmPassword_txt.BorderColorActive = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.confirmPassword_txt.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.confirmPassword_txt.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.confirmPassword_txt.BorderColorIdle = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.confirmPassword_txt.BorderRadius = 1;
-            this.confirmPassword_txt.BorderThickness = 1;
-            this.confirmPassword_txt.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
-            this.confirmPassword_txt.DefaultFont = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.confirmPassword_txt.DefaultText = "";
-            this.confirmPassword_txt.FillColor = System.Drawing.Color.White;
-            this.confirmPassword_txt.HideSelection = true;
-            this.confirmPassword_txt.IconLeft = null;
-            this.confirmPassword_txt.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.confirmPassword_txt.IconPadding = 10;
-            this.confirmPassword_txt.IconRight = null;
-            this.confirmPassword_txt.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.confirmPassword_txt.Location = new System.Drawing.Point(177, 119);
-            this.confirmPassword_txt.MaxLength = 32767;
-            this.confirmPassword_txt.MinimumSize = new System.Drawing.Size(100, 35);
-            this.confirmPassword_txt.Modified = false;
-            this.confirmPassword_txt.Name = "confirmPassword_txt";
-            this.confirmPassword_txt.PasswordChar = '\0';
-            this.confirmPassword_txt.ReadOnly = false;
-            this.confirmPassword_txt.SelectedText = "";
-            this.confirmPassword_txt.SelectionLength = 0;
-            this.confirmPassword_txt.SelectionStart = 0;
-            this.confirmPassword_txt.ShortcutsEnabled = true;
-            this.confirmPassword_txt.Size = new System.Drawing.Size(344, 35);
-            this.confirmPassword_txt.Style = Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox._Style.Bunifu;
-            this.confirmPassword_txt.TabIndex = 16;
-            this.confirmPassword_txt.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.confirmPassword_txt.TextMarginLeft = 5;
-            this.confirmPassword_txt.TextPlaceholder = "";
-            this.confirmPassword_txt.UseSystemPasswordChar = false;
-            this.confirmPassword_txt.TextChange += new System.EventHandler(this.confirmPassword_txt_TextChange);
-            // 
-            // newPassword_txt
-            // 
-            this.newPassword_txt.AcceptsReturn = false;
-            this.newPassword_txt.AcceptsTab = false;
-            this.newPassword_txt.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
-            this.newPassword_txt.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
-            this.newPassword_txt.BackColor = System.Drawing.Color.Transparent;
-            this.newPassword_txt.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("newPassword_txt.BackgroundImage")));
-            this.newPassword_txt.BorderColorActive = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.newPassword_txt.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.newPassword_txt.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.newPassword_txt.BorderColorIdle = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.newPassword_txt.BorderRadius = 1;
-            this.newPassword_txt.BorderThickness = 1;
-            this.newPassword_txt.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
-            this.newPassword_txt.DefaultFont = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.newPassword_txt.DefaultText = "";
-            this.newPassword_txt.FillColor = System.Drawing.Color.White;
-            this.newPassword_txt.HideSelection = true;
-            this.newPassword_txt.IconLeft = null;
-            this.newPassword_txt.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.newPassword_txt.IconPadding = 10;
-            this.newPassword_txt.IconRight = null;
-            this.newPassword_txt.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.newPassword_txt.Location = new System.Drawing.Point(177, 78);
-            this.newPassword_txt.MaxLength = 32767;
-            this.newPassword_txt.MinimumSize = new System.Drawing.Size(100, 35);
-            this.newPassword_txt.Modified = false;
-            this.newPassword_txt.Name = "newPassword_txt";
-            this.newPassword_txt.PasswordChar = '\0';
-            this.newPassword_txt.ReadOnly = false;
-            this.newPassword_txt.SelectedText = "";
-            this.newPassword_txt.SelectionLength = 0;
-            this.newPassword_txt.SelectionStart = 0;
-            this.newPassword_txt.ShortcutsEnabled = true;
-            this.newPassword_txt.Size = new System.Drawing.Size(344, 35);
-            this.newPassword_txt.Style = Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox._Style.Bunifu;
-            this.newPassword_txt.TabIndex = 17;
-            this.newPassword_txt.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.newPassword_txt.TextMarginLeft = 5;
-            this.newPassword_txt.TextPlaceholder = "";
-            this.newPassword_txt.UseSystemPasswordChar = false;
-            this.newPassword_txt.TextChange += new System.EventHandler(this.newPassword_txt_TextChange);
-            // 
-            // changePassword_btn
-            // 
-            this.changePassword_btn.BackColor = System.Drawing.Color.Transparent;
-            this.changePassword_btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("changePassword_btn.BackgroundImage")));
-            this.changePassword_btn.ButtonText = "Change Password";
-            this.changePassword_btn.ButtonTextMarginLeft = 0;
-            this.changePassword_btn.Cursor = System.Windows.Forms.Cursors.Default;
-            this.changePassword_btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
-            this.changePassword_btn.DisabledFillColor = System.Drawing.Color.Gray;
-            this.changePassword_btn.DisabledForecolor = System.Drawing.Color.White;
-            this.changePassword_btn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.changePassword_btn.ForeColor = System.Drawing.Color.White;
-            this.changePassword_btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.changePassword_btn.IconPadding = 6;
-            this.changePassword_btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
-            this.changePassword_btn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.changePassword_btn.IdleBorderRadius = 1;
-            this.changePassword_btn.IdleBorderThickness = 0;
-            this.changePassword_btn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
-            this.changePassword_btn.IdleIconLeftImage = null;
-            this.changePassword_btn.IdleIconRightImage = null;
-            this.changePassword_btn.Location = new System.Drawing.Point(350, 159);
-            this.changePassword_btn.Margin = new System.Windows.Forms.Padding(2);
-            this.changePassword_btn.Name = "changePassword_btn";
-            stateProperties4.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties4.BorderRadius = 1;
-            stateProperties4.BorderThickness = 1;
-            stateProperties4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties4.IconLeftImage = null;
-            stateProperties4.IconRightImage = null;
-            this.changePassword_btn.onHoverState = stateProperties4;
-            this.changePassword_btn.Size = new System.Drawing.Size(171, 32);
-            this.changePassword_btn.TabIndex = 19;
-            this.changePassword_btn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.changePassword_btn.Click += new System.EventHandler(this.changePassword_btn_Click);
             // 
             // currentPassword
             // 
@@ -632,6 +313,42 @@
             this.bunifuLabel8.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
             this.bunifuLabel8.Click += new System.EventHandler(this.bunifuLabel8_Click_1);
             // 
+            // changePassword_btn
+            // 
+            this.changePassword_btn.BackColor = System.Drawing.Color.Transparent;
+            this.changePassword_btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("changePassword_btn.BackgroundImage")));
+            this.changePassword_btn.ButtonText = "Change Password";
+            this.changePassword_btn.ButtonTextMarginLeft = 0;
+            this.changePassword_btn.Cursor = System.Windows.Forms.Cursors.Default;
+            this.changePassword_btn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
+            this.changePassword_btn.DisabledFillColor = System.Drawing.Color.Gray;
+            this.changePassword_btn.DisabledForecolor = System.Drawing.Color.White;
+            this.changePassword_btn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.changePassword_btn.ForeColor = System.Drawing.Color.White;
+            this.changePassword_btn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.changePassword_btn.IconPadding = 6;
+            this.changePassword_btn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.changePassword_btn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.changePassword_btn.IdleBorderRadius = 1;
+            this.changePassword_btn.IdleBorderThickness = 0;
+            this.changePassword_btn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.changePassword_btn.IdleIconLeftImage = null;
+            this.changePassword_btn.IdleIconRightImage = null;
+            this.changePassword_btn.Location = new System.Drawing.Point(350, 159);
+            this.changePassword_btn.Margin = new System.Windows.Forms.Padding(2);
+            this.changePassword_btn.Name = "changePassword_btn";
+            stateProperties1.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties1.BorderRadius = 1;
+            stateProperties1.BorderThickness = 1;
+            stateProperties1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties1.IconLeftImage = null;
+            stateProperties1.IconRightImage = null;
+            this.changePassword_btn.onHoverState = stateProperties1;
+            this.changePassword_btn.Size = new System.Drawing.Size(171, 32);
+            this.changePassword_btn.TabIndex = 19;
+            this.changePassword_btn.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.changePassword_btn.Click += new System.EventHandler(this.changePassword_btn_Click);
+            // 
             // bunifuLabel9
             // 
             this.bunifuLabel9.AutoEllipsis = false;
@@ -646,11 +363,308 @@
             this.bunifuLabel9.TextAlignment = System.Drawing.ContentAlignment.TopLeft;
             this.bunifuLabel9.Click += new System.EventHandler(this.bunifuLabel9_Click);
             // 
+            // newPassword_txt
+            // 
+            this.newPassword_txt.AcceptsReturn = false;
+            this.newPassword_txt.AcceptsTab = false;
+            this.newPassword_txt.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.newPassword_txt.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.newPassword_txt.BackColor = System.Drawing.Color.Transparent;
+            this.newPassword_txt.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("newPassword_txt.BackgroundImage")));
+            this.newPassword_txt.BorderColorActive = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.newPassword_txt.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.newPassword_txt.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.newPassword_txt.BorderColorIdle = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.newPassword_txt.BorderRadius = 1;
+            this.newPassword_txt.BorderThickness = 1;
+            this.newPassword_txt.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.newPassword_txt.DefaultFont = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.newPassword_txt.DefaultText = "";
+            this.newPassword_txt.FillColor = System.Drawing.Color.White;
+            this.newPassword_txt.HideSelection = true;
+            this.newPassword_txt.IconLeft = null;
+            this.newPassword_txt.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.newPassword_txt.IconPadding = 10;
+            this.newPassword_txt.IconRight = null;
+            this.newPassword_txt.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.newPassword_txt.Location = new System.Drawing.Point(177, 78);
+            this.newPassword_txt.MaxLength = 32767;
+            this.newPassword_txt.MinimumSize = new System.Drawing.Size(100, 35);
+            this.newPassword_txt.Modified = false;
+            this.newPassword_txt.Name = "newPassword_txt";
+            this.newPassword_txt.PasswordChar = '\0';
+            this.newPassword_txt.ReadOnly = false;
+            this.newPassword_txt.SelectedText = "";
+            this.newPassword_txt.SelectionLength = 0;
+            this.newPassword_txt.SelectionStart = 0;
+            this.newPassword_txt.ShortcutsEnabled = true;
+            this.newPassword_txt.Size = new System.Drawing.Size(344, 35);
+            this.newPassword_txt.Style = Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox._Style.Bunifu;
+            this.newPassword_txt.TabIndex = 17;
+            this.newPassword_txt.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.newPassword_txt.TextMarginLeft = 5;
+            this.newPassword_txt.TextPlaceholder = "";
+            this.newPassword_txt.UseSystemPasswordChar = false;
+            this.newPassword_txt.TextChange += new System.EventHandler(this.newPassword_txt_TextChange);
+            // 
+            // confirmPassword_txt
+            // 
+            this.confirmPassword_txt.AcceptsReturn = false;
+            this.confirmPassword_txt.AcceptsTab = false;
+            this.confirmPassword_txt.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.confirmPassword_txt.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.confirmPassword_txt.BackColor = System.Drawing.Color.Transparent;
+            this.confirmPassword_txt.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("confirmPassword_txt.BackgroundImage")));
+            this.confirmPassword_txt.BorderColorActive = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.confirmPassword_txt.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.confirmPassword_txt.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.confirmPassword_txt.BorderColorIdle = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.confirmPassword_txt.BorderRadius = 1;
+            this.confirmPassword_txt.BorderThickness = 1;
+            this.confirmPassword_txt.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.confirmPassword_txt.DefaultFont = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.confirmPassword_txt.DefaultText = "";
+            this.confirmPassword_txt.FillColor = System.Drawing.Color.White;
+            this.confirmPassword_txt.HideSelection = true;
+            this.confirmPassword_txt.IconLeft = null;
+            this.confirmPassword_txt.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.confirmPassword_txt.IconPadding = 10;
+            this.confirmPassword_txt.IconRight = null;
+            this.confirmPassword_txt.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.confirmPassword_txt.Location = new System.Drawing.Point(177, 119);
+            this.confirmPassword_txt.MaxLength = 32767;
+            this.confirmPassword_txt.MinimumSize = new System.Drawing.Size(100, 35);
+            this.confirmPassword_txt.Modified = false;
+            this.confirmPassword_txt.Name = "confirmPassword_txt";
+            this.confirmPassword_txt.PasswordChar = '\0';
+            this.confirmPassword_txt.ReadOnly = false;
+            this.confirmPassword_txt.SelectedText = "";
+            this.confirmPassword_txt.SelectionLength = 0;
+            this.confirmPassword_txt.SelectionStart = 0;
+            this.confirmPassword_txt.ShortcutsEnabled = true;
+            this.confirmPassword_txt.Size = new System.Drawing.Size(344, 35);
+            this.confirmPassword_txt.Style = Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox._Style.Bunifu;
+            this.confirmPassword_txt.TabIndex = 16;
+            this.confirmPassword_txt.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.confirmPassword_txt.TextMarginLeft = 5;
+            this.confirmPassword_txt.TextPlaceholder = "";
+            this.confirmPassword_txt.UseSystemPasswordChar = false;
+            this.confirmPassword_txt.TextChange += new System.EventHandler(this.confirmPassword_txt_TextChange);
+            // 
+            // currentPassword_txt
+            // 
+            this.currentPassword_txt.AcceptsReturn = false;
+            this.currentPassword_txt.AcceptsTab = false;
+            this.currentPassword_txt.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.None;
+            this.currentPassword_txt.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.None;
+            this.currentPassword_txt.BackColor = System.Drawing.Color.Transparent;
+            this.currentPassword_txt.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("currentPassword_txt.BackgroundImage")));
+            this.currentPassword_txt.BorderColorActive = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.currentPassword_txt.BorderColorDisabled = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.currentPassword_txt.BorderColorHover = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.currentPassword_txt.BorderColorIdle = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.currentPassword_txt.BorderRadius = 1;
+            this.currentPassword_txt.BorderThickness = 1;
+            this.currentPassword_txt.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
+            this.currentPassword_txt.DefaultFont = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.currentPassword_txt.DefaultText = "";
+            this.currentPassword_txt.FillColor = System.Drawing.Color.White;
+            this.currentPassword_txt.HideSelection = true;
+            this.currentPassword_txt.IconLeft = null;
+            this.currentPassword_txt.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.currentPassword_txt.IconPadding = 10;
+            this.currentPassword_txt.IconRight = null;
+            this.currentPassword_txt.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.currentPassword_txt.Location = new System.Drawing.Point(177, 37);
+            this.currentPassword_txt.MaxLength = 32767;
+            this.currentPassword_txt.MinimumSize = new System.Drawing.Size(100, 35);
+            this.currentPassword_txt.Modified = false;
+            this.currentPassword_txt.Name = "currentPassword_txt";
+            this.currentPassword_txt.PasswordChar = '\0';
+            this.currentPassword_txt.ReadOnly = false;
+            this.currentPassword_txt.SelectedText = "";
+            this.currentPassword_txt.SelectionLength = 0;
+            this.currentPassword_txt.SelectionStart = 0;
+            this.currentPassword_txt.ShortcutsEnabled = true;
+            this.currentPassword_txt.Size = new System.Drawing.Size(344, 35);
+            this.currentPassword_txt.Style = Bunifu.UI.WinForms.BunifuTextbox.BunifuTextBox._Style.Bunifu;
+            this.currentPassword_txt.TabIndex = 15;
+            this.currentPassword_txt.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.currentPassword_txt.TextMarginLeft = 5;
+            this.currentPassword_txt.TextPlaceholder = "";
+            this.currentPassword_txt.UseSystemPasswordChar = false;
+            this.currentPassword_txt.TextChange += new System.EventHandler(this.currentPassword_txt_TextChange);
+            // 
+            // pendingLeaveDataGrid
+            // 
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Century Gothic", 12F);
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            this.pendingLeaveDataGrid.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.pendingLeaveDataGrid.BackgroundColor = System.Drawing.Color.White;
+            this.pendingLeaveDataGrid.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.pendingLeaveDataGrid.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(201)))), ((int)(((byte)(209)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.pendingLeaveDataGrid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.pendingLeaveDataGrid.ColumnHeadersHeight = 30;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.Silver;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.pendingLeaveDataGrid.DefaultCellStyle = dataGridViewCellStyle3;
+            this.pendingLeaveDataGrid.DoubleBuffered = true;
+            this.pendingLeaveDataGrid.EnableHeadersVisualStyles = false;
+            this.pendingLeaveDataGrid.HeaderBgColor = System.Drawing.Color.FromArgb(((int)(((byte)(195)))), ((int)(((byte)(201)))), ((int)(((byte)(209)))));
+            this.pendingLeaveDataGrid.HeaderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(145)))), ((int)(((byte)(156)))), ((int)(((byte)(173)))));
+            this.pendingLeaveDataGrid.Location = new System.Drawing.Point(591, 87);
+            this.pendingLeaveDataGrid.Name = "pendingLeaveDataGrid";
+            this.pendingLeaveDataGrid.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.pendingLeaveDataGrid.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
+            this.pendingLeaveDataGrid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.pendingLeaveDataGrid.Size = new System.Drawing.Size(481, 390);
+            this.pendingLeaveDataGrid.TabIndex = 69;
+            // 
+            // staffpicPictureBox
+            // 
+            this.staffpicPictureBox.Location = new System.Drawing.Point(356, 55);
+            this.staffpicPictureBox.Name = "staffpicPictureBox";
+            this.staffpicPictureBox.Size = new System.Drawing.Size(108, 120);
+            this.staffpicPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.staffpicPictureBox.TabIndex = 34;
+            this.staffpicPictureBox.TabStop = false;
+            // 
+            // refreashbtn
+            // 
+            this.refreashbtn.BackColor = System.Drawing.Color.Transparent;
+            this.refreashbtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("refreashbtn.BackgroundImage")));
+            this.refreashbtn.ButtonText = "Refresh";
+            this.refreashbtn.ButtonTextMarginLeft = 0;
+            this.refreashbtn.Cursor = System.Windows.Forms.Cursors.Default;
+            this.refreashbtn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
+            this.refreashbtn.DisabledFillColor = System.Drawing.Color.Gray;
+            this.refreashbtn.DisabledForecolor = System.Drawing.Color.White;
+            this.refreashbtn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.refreashbtn.ForeColor = System.Drawing.Color.White;
+            this.refreashbtn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.refreashbtn.IconPadding = 6;
+            this.refreashbtn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.refreashbtn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.refreashbtn.IdleBorderRadius = 1;
+            this.refreashbtn.IdleBorderThickness = 0;
+            this.refreashbtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.refreashbtn.IdleIconLeftImage = global::StaffManagment.Properties.Resources.reset;
+            this.refreashbtn.IdleIconRightImage = null;
+            this.refreashbtn.Location = new System.Drawing.Point(591, 50);
+            this.refreashbtn.Margin = new System.Windows.Forms.Padding(2);
+            this.refreashbtn.Name = "refreashbtn";
+            stateProperties2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties2.BorderRadius = 1;
+            stateProperties2.BorderThickness = 1;
+            stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties2.IconLeftImage = global::StaffManagment.Properties.Resources.reset;
+            stateProperties2.IconRightImage = null;
+            this.refreashbtn.onHoverState = stateProperties2;
+            this.refreashbtn.Size = new System.Drawing.Size(91, 32);
+            this.refreashbtn.TabIndex = 31;
+            this.refreashbtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.refreashbtn.Click += new System.EventHandler(this.refreashbtn_Click);
+            // 
+            // cancelbtn
+            // 
+            this.cancelbtn.BackColor = System.Drawing.Color.Transparent;
+            this.cancelbtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cancelbtn.BackgroundImage")));
+            this.cancelbtn.ButtonText = "Cancel";
+            this.cancelbtn.ButtonTextMarginLeft = 0;
+            this.cancelbtn.Cursor = System.Windows.Forms.Cursors.Default;
+            this.cancelbtn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
+            this.cancelbtn.DisabledFillColor = System.Drawing.Color.Gray;
+            this.cancelbtn.DisabledForecolor = System.Drawing.Color.White;
+            this.cancelbtn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cancelbtn.ForeColor = System.Drawing.Color.White;
+            this.cancelbtn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.cancelbtn.IconPadding = 6;
+            this.cancelbtn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.cancelbtn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.cancelbtn.IdleBorderRadius = 1;
+            this.cancelbtn.IdleBorderThickness = 0;
+            this.cancelbtn.IdleFillColor = System.Drawing.Color.Maroon;
+            this.cancelbtn.IdleIconLeftImage = global::StaffManagment.Properties.Resources.error;
+            this.cancelbtn.IdleIconRightImage = null;
+            this.cancelbtn.Location = new System.Drawing.Point(38, 283);
+            this.cancelbtn.Margin = new System.Windows.Forms.Padding(2);
+            this.cancelbtn.Name = "cancelbtn";
+            stateProperties3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties3.BorderRadius = 1;
+            stateProperties3.BorderThickness = 1;
+            stateProperties3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties3.IconLeftImage = global::StaffManagment.Properties.Resources.error;
+            stateProperties3.IconRightImage = null;
+            this.cancelbtn.onHoverState = stateProperties3;
+            this.cancelbtn.Size = new System.Drawing.Size(127, 32);
+            this.cancelbtn.TabIndex = 30;
+            this.cancelbtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.cancelbtn.Click += new System.EventHandler(this.cancelbtn_Click);
+            // 
+            // confirmbtn
+            // 
+            this.confirmbtn.BackColor = System.Drawing.Color.Transparent;
+            this.confirmbtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("confirmbtn.BackgroundImage")));
+            this.confirmbtn.ButtonText = "Confirm";
+            this.confirmbtn.ButtonTextMarginLeft = 0;
+            this.confirmbtn.Cursor = System.Windows.Forms.Cursors.Default;
+            this.confirmbtn.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(161)))), ((int)(((byte)(161)))), ((int)(((byte)(161)))));
+            this.confirmbtn.DisabledFillColor = System.Drawing.Color.Gray;
+            this.confirmbtn.DisabledForecolor = System.Drawing.Color.White;
+            this.confirmbtn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.confirmbtn.ForeColor = System.Drawing.Color.White;
+            this.confirmbtn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
+            this.confirmbtn.IconPadding = 6;
+            this.confirmbtn.IconRightCursor = System.Windows.Forms.Cursors.Default;
+            this.confirmbtn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.confirmbtn.IdleBorderRadius = 1;
+            this.confirmbtn.IdleBorderThickness = 0;
+            this.confirmbtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
+            this.confirmbtn.IdleIconLeftImage = global::StaffManagment.Properties.Resources.success;
+            this.confirmbtn.IdleIconRightImage = null;
+            this.confirmbtn.Location = new System.Drawing.Point(186, 283);
+            this.confirmbtn.Margin = new System.Windows.Forms.Padding(2);
+            this.confirmbtn.Name = "confirmbtn";
+            stateProperties4.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties4.BorderRadius = 1;
+            stateProperties4.BorderThickness = 1;
+            stateProperties4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
+            stateProperties4.IconLeftImage = global::StaffManagment.Properties.Resources.success;
+            stateProperties4.IconRightImage = null;
+            this.confirmbtn.onHoverState = stateProperties4;
+            this.confirmbtn.Size = new System.Drawing.Size(127, 32);
+            this.confirmbtn.TabIndex = 20;
+            this.confirmbtn.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.confirmbtn.Click += new System.EventHandler(this.confirmbtn_Click);
+            // 
             // principle_profile
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.pendingLeaveDataGrid);
             this.Controls.Add(this.staffpicPictureBox);
             this.Controls.Add(this.nameLable);
             this.Controls.Add(this.bunifuLabel6);
@@ -667,21 +681,19 @@
             this.Controls.Add(this.bunifuLabel3);
             this.Controls.Add(this.bunifuLabel2);
             this.Controls.Add(this.bunifuLabel1);
-            this.Controls.Add(this.pendingLeaveDataGrid);
             this.Controls.Add(this.chng_password);
             this.Name = "principle_profile";
             this.Size = new System.Drawing.Size(1085, 737);
-            ((System.ComponentModel.ISupportInitialize)(this.pendingLeaveDataGrid)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.staffpicPictureBox)).EndInit();
             this.chng_password.ResumeLayout(false);
             this.chng_password.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pendingLeaveDataGrid)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.staffpicPictureBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-        private System.Windows.Forms.DataGridView pendingLeaveDataGrid;
         private Bunifu.UI.WinForms.BunifuLabel bunifuLabel1;
         private Bunifu.UI.WinForms.BunifuLabel bunifuLabel2;
         private Bunifu.UI.WinForms.BunifuLabel bunifuLabel3;
@@ -709,5 +721,6 @@
         private Bunifu.UI.WinForms.BunifuLabel bunifuLabel7;
         private Bunifu.UI.WinForms.BunifuLabel bunifuLabel8;
         private Bunifu.UI.WinForms.BunifuLabel bunifuLabel9;
+        public Bunifu.Framework.UI.BunifuCustomDataGrid pendingLeaveDataGrid;
     }
 }

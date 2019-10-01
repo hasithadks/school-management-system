@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StaffManagment;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -134,6 +135,13 @@ namespace SchoolManagementSystem
         private void paymentMainPanel_Paint(object sender, PaintEventArgs e)
         {
             
+        }
+
+        private void bunifuButton6_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Login lg = new Login();
+            lg.Show();
         }
     }
 }

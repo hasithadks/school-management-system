@@ -82,7 +82,7 @@
             this.yearLable.Location = new System.Drawing.Point(515, 55);
             this.yearLable.Name = "yearLable";
             this.yearLable.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.yearLable.Size = new System.Drawing.Size(39, 22);
+            this.yearLable.Size = new System.Drawing.Size(39, 25);
             this.yearLable.TabIndex = 23;
             this.yearLable.Text = "xxxx";
             this.yearLable.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
@@ -281,7 +281,7 @@
             this.reasontxt.BorderRadius = 1;
             this.reasontxt.BorderThickness = 1;
             this.reasontxt.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
-            this.reasontxt.DefaultFont = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.reasontxt.DefaultFont = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.reasontxt.DefaultText = "";
             this.reasontxt.FillColor = System.Drawing.Color.White;
             this.reasontxt.HideSelection = true;
@@ -325,6 +325,7 @@
             this.typetxt.FillDropDown = false;
             this.typetxt.FillIndicator = false;
             this.typetxt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.typetxt.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.typetxt.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.typetxt.FormattingEnabled = true;
             this.typetxt.Icon = null;
@@ -412,7 +413,7 @@
             this.refreshbtn.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.refreshbtn.ForeColor = System.Drawing.Color.White;
             this.refreshbtn.IconLeftCursor = System.Windows.Forms.Cursors.Default;
-            this.refreshbtn.IconPadding = 10;
+            this.refreshbtn.IconPadding = 7;
             this.refreshbtn.IconRightCursor = System.Windows.Forms.Cursors.Default;
             this.refreshbtn.IdleBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(63)))), ((int)(((byte)(67)))), ((int)(((byte)(75)))));
             this.refreshbtn.IdleBorderRadius = 1;
@@ -427,7 +428,7 @@
             stateProperties2.BorderRadius = 1;
             stateProperties2.BorderThickness = 1;
             stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(57)))), ((int)(((byte)(72)))));
-            stateProperties2.IconLeftImage = null;
+            stateProperties2.IconLeftImage = global::StaffManagment.Properties.Resources.reset;
             stateProperties2.IconRightImage = null;
             this.refreshbtn.onHoverState = stateProperties2;
             this.refreshbtn.Size = new System.Drawing.Size(95, 32);

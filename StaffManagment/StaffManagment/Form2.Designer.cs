@@ -58,7 +58,7 @@
             this.nameLable.AutoEllipsis = false;
             this.nameLable.CursorType = null;
             this.nameLable.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nameLable.Location = new System.Drawing.Point(237, 255);
+            this.nameLable.Location = new System.Drawing.Point(158, 304);
             this.nameLable.Name = "nameLable";
             this.nameLable.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.nameLable.Size = new System.Drawing.Size(40, 21);
@@ -72,7 +72,7 @@
             this.nicLable.AutoEllipsis = false;
             this.nicLable.CursorType = null;
             this.nicLable.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.nicLable.Location = new System.Drawing.Point(237, 290);
+            this.nicLable.Location = new System.Drawing.Point(158, 339);
             this.nicLable.Name = "nicLable";
             this.nicLable.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.nicLable.Size = new System.Drawing.Size(28, 21);
@@ -85,7 +85,7 @@
             this.dateLabel.AutoEllipsis = false;
             this.dateLabel.CursorType = null;
             this.dateLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateLabel.Location = new System.Drawing.Point(237, 325);
+            this.dateLabel.Location = new System.Drawing.Point(158, 374);
             this.dateLabel.Name = "dateLabel";
             this.dateLabel.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.dateLabel.Size = new System.Drawing.Size(34, 21);
@@ -98,7 +98,7 @@
             this.bunifuLabel1.AutoEllipsis = false;
             this.bunifuLabel1.CursorType = null;
             this.bunifuLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuLabel1.Location = new System.Drawing.Point(180, 255);
+            this.bunifuLabel1.Location = new System.Drawing.Point(101, 304);
             this.bunifuLabel1.Name = "bunifuLabel1";
             this.bunifuLabel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.bunifuLabel1.Size = new System.Drawing.Size(51, 21);
@@ -112,7 +112,7 @@
             this.bunifuLabel2.AutoEllipsis = false;
             this.bunifuLabel2.CursorType = null;
             this.bunifuLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuLabel2.Location = new System.Drawing.Point(195, 290);
+            this.bunifuLabel2.Location = new System.Drawing.Point(116, 339);
             this.bunifuLabel2.Name = "bunifuLabel2";
             this.bunifuLabel2.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.bunifuLabel2.Size = new System.Drawing.Size(36, 21);
@@ -125,7 +125,7 @@
             this.bunifuLabel3.AutoEllipsis = false;
             this.bunifuLabel3.CursorType = null;
             this.bunifuLabel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuLabel3.Location = new System.Drawing.Point(150, 325);
+            this.bunifuLabel3.Location = new System.Drawing.Point(71, 374);
             this.bunifuLabel3.Name = "bunifuLabel3";
             this.bunifuLabel3.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.bunifuLabel3.Size = new System.Drawing.Size(81, 21);
@@ -139,9 +139,9 @@
             this.barcodeImg.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.barcodeImg.Location = new System.Drawing.Point(180, 418);
+            this.barcodeImg.Location = new System.Drawing.Point(91, 431);
             this.barcodeImg.Name = "barcodeImg";
-            this.barcodeImg.Size = new System.Drawing.Size(189, 64);
+            this.barcodeImg.Size = new System.Drawing.Size(189, 69);
             this.barcodeImg.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.barcodeImg.TabIndex = 13;
             this.barcodeImg.TabStop = false;
@@ -149,7 +149,7 @@
             // 
             // photoTxt
             // 
-            this.photoTxt.Location = new System.Drawing.Point(212, 123);
+            this.photoTxt.Location = new System.Drawing.Point(135, 172);
             this.photoTxt.Name = "photoTxt";
             this.photoTxt.Size = new System.Drawing.Size(101, 110);
             this.photoTxt.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -158,7 +158,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(90, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(11, 61);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(348, 482);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -178,18 +178,18 @@
             this.close_button.ImageActive = null;
             this.close_button.ImageLocation = null;
             this.close_button.ImageMargin = 10;
-            this.close_button.ImageSize = new System.Drawing.Size(30, 30);
-            this.close_button.ImageZoomSize = new System.Drawing.Size(40, 40);
+            this.close_button.ImageSize = new System.Drawing.Size(30, 28);
+            this.close_button.ImageZoomSize = new System.Drawing.Size(40, 38);
             this.close_button.InitialImage = ((System.Drawing.Image)(resources.GetObject("close_button.InitialImage")));
-            this.close_button.Location = new System.Drawing.Point(559, 0);
-            this.close_button.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.close_button.Location = new System.Drawing.Point(319, 16);
+            this.close_button.Margin = new System.Windows.Forms.Padding(4);
             this.close_button.Name = "close_button";
             this.close_button.Rotation = 0;
             this.close_button.ShowActiveImage = true;
             this.close_button.ShowCursorChanges = true;
             this.close_button.ShowImageBorders = true;
             this.close_button.ShowSizeMarkers = true;
-            this.close_button.Size = new System.Drawing.Size(40, 40);
+            this.close_button.Size = new System.Drawing.Size(40, 38);
             this.close_button.TabIndex = 1;
             this.close_button.ToolTipText = "";
             this.close_button.WaitOnLoad = false;
@@ -201,7 +201,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(600, 550);
+            this.ClientSize = new System.Drawing.Size(370, 555);
             this.Controls.Add(this.barcodeImg);
             this.Controls.Add(this.bunifuLabel3);
             this.Controls.Add(this.bunifuLabel2);
